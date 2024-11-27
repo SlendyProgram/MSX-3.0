@@ -24017,3 +24017,25 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [16:01:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given    [Grenade] * 1 to slendy3021]
 [16:01:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [16:01:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given    [Missile] * 1 to slendy3021]
+[16:06:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:08:11] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /gamemode creative
+[16:08:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Set own game mode to Creative Mode]
+[16:08:28] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class de.sanandrew.mods.turretmod.entity.turret.EntityTurret from class de.sanandrew.mods.turretmod.entity.turret.DataWatcherBooleans
+[16:09:59] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /gamemode survival
+[16:09:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Set own game mode to Survival Mode]
+[16:10:04] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /gamemode creative
+[16:10:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Set own game mode to Creative Mode]
+[16:11:22] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /gamemode survival
+[16:11:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Set own game mode to Survival Mode]
+[16:11:34] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /gamemode creative
+[16:11:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Set own game mode to Creative Mode]
+[16:11:39] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /gamemode survival
+[16:11:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Set own game mode to Survival Mode]
+[16:11:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:11:55] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /gamemode creative
+[16:11:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Set own game mode to Creative Mode]
+[16:12:01] [Server thread/INFO] [OverLast]: Saving data to disk.
+[16:12:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Spring, day 2.
+[16:12:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Think the radio station is boring and want to change channels? Sorry, this is a compulsory program! just listen just listen(。・ω・。)
+[16:12:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: This is a special radio station for spring.
+[16:12:01] [Server thread/INFO] [OverLast]: Rain is on the way in 8189 ticks.
