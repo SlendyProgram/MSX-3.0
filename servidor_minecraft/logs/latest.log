@@ -24107,3 +24107,7 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [16:32:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: howdy howdy Doom City, have you found some bugs on the ground? Don't worry about them threatening your food, because you may not need other food soon!
 [16:32:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: This is a special radio station for spring.
 [16:32:01] [Server thread/INFO] [OverLast]: Rain is on the way in 3227 ticks.
+[16:34:43] [Server thread/INFO] [OverLast]: It's raining now. It's false that it is thundering. It'll last for 13156 ticks.
+[16:36:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:36:56] [Server thread/DEBUG] [mixin]: Mixing LockCodeMixin from mixins.lockcode.json into net.minecraft.world.LockCode
+[16:41:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
