@@ -24039,3 +24039,55 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [16:12:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Think the radio station is boring and want to change channels? Sorry, this is a compulsory program! just listen just listen(。・ω・。)
 [16:12:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: This is a special radio station for spring.
 [16:12:01] [Server thread/INFO] [OverLast]: Rain is on the way in 8189 ticks.
+[16:16:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:18:51] [Server thread/INFO] [OverLast]: It's raining now. It's false that it is thundering. It'll last for 13843 ticks.
+[16:19:54] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /gamemode survival
+[16:19:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Set own game mode to Survival Mode]
+[16:19:59] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 lost connection: Flying is not enabled on this server!
+[16:19:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: slendy3021 left the game
+[16:19:59] [Server thread/WARN] [Mohist]: handle Disconnection() called twice
+[16:20:08] [User Authenticator #3/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player slendy3021 is 2f7b0dae-90da-3fab-a9a9-d67a016efa69
+[16:20:09] [Server thread/TRACE] [FML]: Handshake channel activating
+[16:20:09] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[16:20:09] [Server thread/DEBUG] [FML]:   Next: HELLO
+[16:20:09] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[16:20:09] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ModList:44 mods->FMLHandshakeServerState$2:HELLO
+[16:20:09] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 44 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,usefulbackpacks@1.5.4.85,mixinbooter@8.3,cgm@0.15.3,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.1001,futuremc@0.2.6,loliasm@5.14,quark@r1.6-179,spartanshields@1.5.4,mcp@9.42,aquaacrobatics@1.15.3,nocubessrpnests@3.0.0,sanplayermodel@1.2.2,enhancedvisuals@1.3.0,xaeroworldmap@1.32.0,securitycraft@v1.9.6,autoreglib@1.3-32,reskillable@1.12.2-1.13.0,sanlib@1.6.3,FML@8.0.99.99,obfuscate@0.4.2,forgelin@1.8.3,sapturretmod@4.0.0-beta.4.6,foamfixcore@7.7.4,srparasites@1.9.12,uteamcore@2.2.5.255,spartanweaponry@beta 1.3.8,appleskin@1.0.14,xaerominimap_core@1.12.2-1.0,additionalstructures@2.5.0,waila@1.8.26,foamfix@@VERSION@,charm@1.4,xaerobetterpvp@22.8.0,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,playerrevive@1.0,orelib@3.6.0.1,dsurround@3.6.1.0,overlast@0.2.8
+[16:20:09] [Netty Epoll Server IO #1/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist, lostcities] modCLIENT
+[16:20:09] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: WAITINGCACK
+[16:20:09] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[16:20:09] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: COMPLETE
+[16:20:10] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[16:20:10] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: DONE
+[16:20:10] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[16:20:10] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[16:20:10] [Server thread/INFO] [dsurround]: Player [slendy3021] connected with Dynamic Surroundings 3.6.1.0
+[16:20:10] [Server thread/INFO] [Waila]: Player EntityPlayerMP['slendy3021'/1012064, uuid='2f7b0dae-90da-3fab-a9a9-d67a016efa69', l='world', x=230.43, y=91.80, z=-151.38, cx=14, cd=-10, tl=72749, v=true, d=false](slendy3021 at 230.42949059242034,91.79999995231628,-151.37822045195713) connected. Sending ping
+[16:20:10] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: slendy3021[/127.14.127.105:55283] logged in with entity id 1012064 at ([world]230.42949059242034, 91.79999995231628, -151.37822045195713)
+[16:20:10] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[16:20:20] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 lost connection: Flying is not enabled on this server!
+[16:20:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: slendy3021 left the game
+[16:20:20] [Server thread/WARN] [Mohist]: handle Disconnection() called twice
+[16:20:27] [User Authenticator #4/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player slendy3021 is 2f7b0dae-90da-3fab-a9a9-d67a016efa69
+[16:20:27] [Server thread/TRACE] [FML]: Handshake channel activating
+[16:20:27] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[16:20:27] [Server thread/DEBUG] [FML]:   Next: HELLO
+[16:20:27] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[16:20:27] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ModList:44 mods->FMLHandshakeServerState$2:HELLO
+[16:20:27] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 44 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,usefulbackpacks@1.5.4.85,mixinbooter@8.3,cgm@0.15.3,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.1001,futuremc@0.2.6,loliasm@5.14,quark@r1.6-179,spartanshields@1.5.4,mcp@9.42,aquaacrobatics@1.15.3,nocubessrpnests@3.0.0,sanplayermodel@1.2.2,enhancedvisuals@1.3.0,xaeroworldmap@1.32.0,securitycraft@v1.9.6,autoreglib@1.3-32,reskillable@1.12.2-1.13.0,sanlib@1.6.3,FML@8.0.99.99,obfuscate@0.4.2,forgelin@1.8.3,sapturretmod@4.0.0-beta.4.6,foamfixcore@7.7.4,srparasites@1.9.12,uteamcore@2.2.5.255,spartanweaponry@beta 1.3.8,appleskin@1.0.14,xaerominimap_core@1.12.2-1.0,additionalstructures@2.5.0,waila@1.8.26,foamfix@@VERSION@,charm@1.4,xaerobetterpvp@22.8.0,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,playerrevive@1.0,orelib@3.6.0.1,dsurround@3.6.1.0,overlast@0.2.8
+[16:20:27] [Netty Epoll Server IO #2/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist, lostcities] modCLIENT
+[16:20:27] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: WAITINGCACK
+[16:20:27] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[16:20:27] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: COMPLETE
+[16:20:28] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[16:20:28] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: DONE
+[16:20:28] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[16:20:28] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[16:20:28] [Server thread/INFO] [dsurround]: Player [slendy3021] connected with Dynamic Surroundings 3.6.1.0
+[16:20:28] [Server thread/INFO] [Waila]: Player EntityPlayerMP['slendy3021'/1015897, uuid='2f7b0dae-90da-3fab-a9a9-d67a016efa69', l='world', x=230.43, y=91.80, z=-151.36, cx=14, cd=-10, tl=72951, v=true, d=false](slendy3021 at 230.43184507554048,91.79999995231628,-151.35703428826432) connected. Sending ping
+[16:20:28] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: slendy3021[/127.14.127.105:50543] logged in with entity id 1015897 at ([world]230.43184507554048, 91.79999995231628, -151.35703428826432)
+[16:20:28] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[16:21:01] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /xp 10000 slendy3021
+[16:21:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given 10000 experience to slendy3021]
+[16:21:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:22:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given    [Upgrade Base] * 64 to slendy3021]
