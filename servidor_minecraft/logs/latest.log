@@ -24091,3 +24091,19 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [16:21:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given 10000 experience to slendy3021]
 [16:21:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [16:22:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given    [Upgrade Base] * 64 to slendy3021]
+[16:22:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given    [Upgrade Base] * 1 to slendy3021]
+[16:22:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given    [Smart Targeting Upgrade] * 64 to slendy3021]
+[16:22:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given    [Shield Amplifier II Upgrade] * 1 to slendy3021]
+[16:22:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given    [Shield Amplifier I Upgrade] * 1 to slendy3021]
+[16:22:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given    [Personal Shield Upgrade] * 1 to slendy3021]
+[16:22:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given    [Shield Amplifier I Upgrade] * 1 to slendy3021]
+[16:22:51] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /regenerate
+[16:24:45] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /gamemode creative
+[16:24:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Set own game mode to Creative Mode]
+[16:26:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:31:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:32:01] [Server thread/INFO] [OverLast]: Saving data to disk.
+[16:32:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Spring, day 3.
+[16:32:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: howdy howdy Doom City, have you found some bugs on the ground? Don't worry about them threatening your food, because you may not need other food soon!
+[16:32:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: This is a special radio station for spring.
+[16:32:01] [Server thread/INFO] [OverLast]: Rain is on the way in 3227 ticks.
