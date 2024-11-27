@@ -23993,3 +23993,15 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [15:39:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
 [15:39:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given    [Purple Mimic Blade] * 1 to slendy3021]
 [15:41:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given    [Plasma Torch] * 1 to slendy3021]
+[15:41:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:41:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given    [Sentient Boots] * 1 to slendy3021]
+[15:41:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given    [Sentient Pants] * 1 to slendy3021]
+[15:41:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given    [Sentient Chest] * 1 to slendy3021]
+[15:42:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given    [Sentient Helm] * 1 to slendy3021]
+[15:42:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given    [Spawn Walking Head (Ender Dragon)] * 1 to slendy3021]
+[15:42:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: slendy3021 is bleeding...
+[15:42:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: slendy3021 was slain by Walking Head
+[15:42:50] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /gamemode creative
+[15:42:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Set own game mode to Creative Mode]
+[15:46:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:51:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
