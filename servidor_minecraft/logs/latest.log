@@ -24005,3 +24005,15 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [15:42:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Set own game mode to Creative Mode]
 [15:46:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [15:51:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:52:01] [Server thread/INFO] [OverLast]: Saving data to disk.
+[15:52:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Spring, day 1.
+[15:52:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: According to reliable information, the Beckon farm is again active, and there is another infection area in the south.
+[15:52:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Winter has passed, it's time to get ready for the final battle!
+[15:56:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: slendy3021 has made the advancement [Acquire Hardware]
+[15:56:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:00:05] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /gamemode survival
+[16:00:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Set own game mode to Survival Mode]
+[16:01:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given    [Stun Grenade] * 1 to slendy3021]
+[16:01:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given    [Grenade] * 1 to slendy3021]
+[16:01:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:01:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given    [Missile] * 1 to slendy3021]
