@@ -497,6 +497,14 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2024-11-28 01:42:30 +0000",
+      "iron_leggings": "2024-11-28 01:42:30 +0000",
+      "iron_helmet": "2024-11-28 01:42:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_the_recipe": "2024-11-28 00:58:31 +0000"
@@ -1038,6 +1046,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2024-11-28 00:58:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-11-28 01:34:26 +0000"
     },
     "done": true
   },
@@ -2342,6 +2356,12 @@
     },
     "done": true
   },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-11-28 01:33:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/slime_ball": {
     "criteria": {
       "has_the_recipe": "2024-11-28 00:58:31 +0000"
@@ -2633,6 +2653,12 @@
   "minecraft:recipes/building_blocks/nether_brick": {
     "criteria": {
       "has_the_recipe": "2024-11-28 00:58:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-11-28 01:33:42 +0000"
     },
     "done": true
   },
