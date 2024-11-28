@@ -1265,6 +1265,12 @@
     },
     "done": true
   },
+  "reskillable:main/root": {
+    "criteria": {
+      "level_up": "2024-11-28 00:34:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
     "criteria": {
       "has_the_recipe": "2024-11-28 00:06:23 +0000"
@@ -1664,6 +1670,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2024-11-28 00:15:13 +0000",
+      "cooked_beef": "2024-11-28 00:36:57 +0000",
+      "rotten_flesh": "2024-11-28 00:41:24 +0000",
       "cooked_chicken": "2024-11-28 00:16:39 +0000"
     },
     "done": false
@@ -1854,12 +1862,6 @@
     },
     "done": true
   },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2024-11-28 00:15:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_the_recipe": "2024-11-28 00:06:23 +0000"
@@ -1869,6 +1871,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_the_recipe": "2024-11-28 00:06:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-11-28 00:15:13 +0000"
     },
     "done": true
   },

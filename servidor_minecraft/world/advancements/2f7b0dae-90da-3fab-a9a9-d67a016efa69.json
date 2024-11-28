@@ -1029,6 +1029,12 @@
     },
     "done": true
   },
+  "reskillable:main/attack_5": {
+    "criteria": {
+      "level_up": "2024-11-28 00:33:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2024-11-27 23:53:58 +0000"
@@ -1259,6 +1265,12 @@
   "minecraft:recipes/misc/red_dye_from_tulip": {
     "criteria": {
       "has_the_recipe": "2024-11-27 23:53:58 +0000"
+    },
+    "done": true
+  },
+  "reskillable:main/root": {
+    "criteria": {
+      "level_up": "2024-11-28 00:33:51 +0000"
     },
     "done": true
   },
@@ -1666,6 +1678,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-11-28 00:33:28 +0000",
       "cooked_mutton": "2024-11-28 00:12:26 +0000",
       "cooked_beef": "2024-11-28 00:18:51 +0000"
     },
@@ -2628,6 +2641,12 @@
   "minecraft:recipes/building_blocks/nether_brick": {
     "criteria": {
       "has_the_recipe": "2024-11-27 23:53:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-11-28 00:28:25 +0000"
     },
     "done": true
   },
