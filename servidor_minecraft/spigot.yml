@@ -12,19 +12,14 @@
 
 config-version: 11
 settings:
-  timeout-time: 90
-  restart-on-crash: true
-  restart-script: ./start.sh
-  netty-threads: 4
-  bungeecord: false
-  save-user-cache-on-stop-only: false
-  sample-count: 12
   player-shuffle: 0
+  late-bind: false
   filter-creative-items: true
   int-cache-limit: 1024
   moved-wrongly-threshold: 0.0625
   moved-too-quickly-multiplier: 10.0
   item-dirty-ticks: 20
+  bungeecord: false
   attribute:
     maxHealth:
       max: 2048.0
@@ -32,12 +27,14 @@ settings:
       max: 2048.0
     attackDamage:
       max: 2048.0
-  late-bind: false
+  timeout-time: 90
+  restart-on-crash: true
+  restart-script: ./start.sh
+  netty-threads: 4
   user-cache-size: 1000
-messages:
-  restart: Server is restarting
+  save-user-cache-on-stop-only: false
+  sample-count: 12
 commands:
-  tab-complete: 0
   spam-exclusions:
   - /skill
   replace-commands:
@@ -46,7 +43,10 @@ commands:
   - testforblock
   - tellraw
   log: true
+  tab-complete: 0
   silent-commandblock-console: false
+messages:
+  restart: Server is restarting
 advancements:
   disable-saving: false
   disabled:
@@ -103,14 +103,14 @@ world-settings:
     max-growth-height:
       cactus: 3
       reeds: 3
-    enable-zombie-pigmen-portal-spawns: true
+    arrow-despawn-rate: 1200
     wither-spawn-sound-radius: 0
     view-distance: 10
-    arrow-despawn-rate: 1200
-    merge-radius:
-      exp: 3.0
-      item: 2.5
+    enable-zombie-pigmen-portal-spawns: true
     item-despawn-rate: 6000
+    merge-radius:
+      item: 2.5
+      exp: 3.0
     hanging-tick-frequency: 100
     zombie-aggressive-towards-villager: true
     nerf-spawner-mobs: false
