@@ -7186,3 +7186,178 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [01:18:04] [Netty Epoll Server IO #2/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
 [01:18:04] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntitySheep['Sheep'/246468, uuid='d78cff4d-88d1-4ba6-879d-9675c17bfe9e', l='world', x=234.84, y=79.00, z=5.73, cx=14, cd=0, tl=11231, v=true, d=false]
 [01:18:04] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[01:18:09] [Netty Epoll Server IO #2/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[01:18:09] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityMudo['Rupter'/422975, uuid='d1c1b4ae-cbdb-4fbe-b62e-b0cbd95729dd', l='world', x=233.02, y=83.00, z=-6.39, cx=14, cd=-1, tl=182, v=true, d=false]
+[01:18:09] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[01:18:18] [Netty Epoll Server IO #2/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[01:18:18] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityMudo['Rupter'/426824, uuid='a5396077-143f-4ff1-b3dc-5f225a126610', l='world', x=203.16, y=83.00, z=-23.09, cx=12, cd=-2, tl=164, v=true, d=false]
+[01:18:18] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[01:18:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:18:24] [Server thread/INFO] [OverLast]: Saving data to disk.
+[01:18:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Spring, day 1.
+[01:18:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unfortunately, the north camp was captured again, but luckily, they had an additional holy place to jump from buildings.
+[01:18:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Winter has passed, it's time to get ready for the final battle!
+[01:18:25] [Netty Epoll Server IO #2/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[01:18:25] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityMudo['Rupter'/421845, uuid='229064f8-c081-44cb-b744-af5317cfb17c', l='world', x=190.42, y=81.63, z=-13.61, cx=11, cd=-1, tl=570, v=true, d=false]
+[01:18:25] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[01:18:27] [Netty Epoll Server IO #2/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[01:18:27] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityMudo['Rupter'/421845, uuid='229064f8-c081-44cb-b744-af5317cfb17c', l='world', x=190.41, y=81.71, z=-12.88, cx=11, cd=-1, tl=605, v=true, d=false]
+[01:18:27] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[01:18:28] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[01:18:29] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityMudo['Rupter'/415199, uuid='6c46064c-fc08-46f9-8de4-d89883d155f3', l='world', x=210.33, y=77.00, z=6.52, cx=13, cd=0, tl=967, v=true, d=false]
+[01:18:29] [Netty Epoll Server IO #2/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[01:18:29] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[01:18:29] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityMudo['Rupter'/421845, uuid='229064f8-c081-44cb-b744-af5317cfb17c', l='world', x=190.41, y=81.00, z=-13.11, cx=11, cd=-1, tl=639, v=true, d=false]
+[01:18:29] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[01:18:39] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[01:18:39] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntitySheep['Sheep'/424142, uuid='eef42f1e-0549-4179-a225-31362bcfd014', l='world', x=245.80, y=83.00, z=-4.75, cx=15, cd=-1, tl=722, v=true, d=false]
+[01:18:39] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[01:18:41] [Netty Epoll Server IO #2/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[01:18:41] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityCow['Cow'/431578, uuid='bee37e7e-2353-4641-9965-87163d879988', l='world', x=241.50, y=79.00, z=11.50, cx=15, cd=0, tl=361, v=true, d=false]
+[01:18:41] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[01:18:41] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[01:18:41] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityCow['Cow'/424141, uuid='7a90b183-a25d-4b0a-9d00-c334e12150bc', l='world', x=256.15, y=83.00, z=-0.61, cx=16, cd=-1, tl=772, v=true, d=false]
+[01:18:41] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[01:18:43] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[01:18:43] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityCow['Cow'/424141, uuid='7a90b183-a25d-4b0a-9d00-c334e12150bc', l='world', x=262.28, y=82.00, z=3.63, cx=16, cd=0, tl=809, v=true, d=false]
+[01:18:43] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[01:18:50] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[01:18:50] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntitySheep['Sheep'/424143, uuid='6fc424d4-2887-44a0-aa5e-0159fb353a88', l='world', x=244.55, y=87.00, z=-24.31, cx=15, cd=-2, tl=952, v=true, d=false]
+[01:18:50] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[01:18:51] [Netty Epoll Server IO #2/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[01:18:51] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityCow['Cow'/147110, uuid='295fcd20-47bd-4c1b-9cfa-c504cb375149', l='world', x=235.11, y=73.00, z=35.46, cx=14, cd=2, tl=16550, v=true, d=false]
+[01:18:51] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[01:18:57] [Netty Epoll Server IO #2/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[01:18:57] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntitySkeleton['Skeleton'/378268, uuid='c9a1bd35-1733-48b3-84d8-fdfdf42d7e9b', l='world', x=236.96, y=70.00, z=53.07, cx=14, cd=3, tl=3474, v=true, d=false]
+[01:18:57] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[01:18:58] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[01:18:58] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityPig['Pig'/431575, uuid='c686e62f-3efd-47d3-aa75-5d652d271a49', l='world', x=227.40, y=94.00, z=-58.30, cx=14, cd=-4, tl=706, v=true, d=false]
+[01:18:58] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[01:18:59] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[01:18:59] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityPig['Pig'/431575, uuid='c686e62f-3efd-47d3-aa75-5d652d271a49', l='world', x=226.10, y=94.00, z=-63.60, cx=14, cd=-4, tl=732, v=true, d=false]
+[01:18:59] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[01:19:00] [Netty Epoll Server IO #2/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[01:19:00] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntitySkeleton['Skeleton'/378268, uuid='c9a1bd35-1733-48b3-84d8-fdfdf42d7e9b', l='world', x=232.70, y=69.00, z=56.98, cx=14, cd=3, tl=3534, v=true, d=false]
+[01:19:00] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[01:19:12] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[01:19:12] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityChicken['Chicken'/447437, uuid='73cd2874-b4dc-4376-85a7-8c4d954598ad', l='world', x=238.53, y=92.00, z=-117.50, cx=14, cd=-8, tl=200, v=true, d=false]
+[01:19:12] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[01:19:14] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[01:19:14] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntitySheep['Sheep'/447436, uuid='cd564e5c-73e8-43df-a95b-bd59bc2ad357', l='world', x=242.08, y=91.00, z=-114.82, cx=15, cd=-8, tl=227, v=true, d=false]
+[01:19:14] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[01:19:16] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[01:19:17] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntitySheep['Sheep'/447435, uuid='99c927eb-8044-4332-816b-6b8c89286549', l='world', x=248.83, y=89.00, z=-122.71, cx=15, cd=-8, tl=281, v=true, d=false]
+[01:19:17] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[01:19:19] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[01:19:19] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntitySheep['Sheep'/447434, uuid='911042e0-67cd-4952-aa3a-82939de1dee1', l='world', x=240.76, y=91.00, z=-124.41, cx=15, cd=-8, tl=325, v=true, d=false]
+[01:19:19] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[01:19:46] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /xp 1000 slendy3021
+[01:19:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given 1000 experience to slendy3021]
+[01:20:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: slendy3021 has made the advancement [Attack!]
+[01:20:30] [Netty Epoll Server IO #2/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[01:20:30] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityCow['Cow'/458344, uuid='1732e2cf-6d0d-4aa1-bca8-8f1e15cc4d52', l='world', x=213.50, y=94.00, z=-53.50, cx=13, cd=-4, tl=1350, v=true, d=false]
+[01:20:30] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[01:20:34] [Netty Epoll Server IO #2/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[01:20:34] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityChicken['Chicken'/458345, uuid='3f6fddf7-470d-41b1-b709-5780200e5ec8', l='world', x=214.50, y=94.00, z=-55.50, cx=13, cd=-4, tl=1433, v=true, d=false]
+[01:20:34] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[01:20:37] [Netty Epoll Server IO #2/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[01:20:37] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityChicken['Chicken'/458345, uuid='3f6fddf7-470d-41b1-b709-5780200e5ec8', l='world', x=210.07, y=95.00, z=-54.47, cx=13, cd=-4, tl=1481, v=true, d=false]
+[01:20:37] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[01:20:40] [Netty Epoll Server IO #2/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[01:20:40] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntitySheep['Sheep'/246472, uuid='9b684de5-763f-4f4e-b607-c6154569715a', l='world', x=193.16, y=94.00, z=-55.10, cx=12, cd=-4, tl=9047, v=true, d=false]
+[01:20:40] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[01:20:54] [Netty Epoll Server IO #2/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[01:20:54] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityPig['Pig'/490953, uuid='f9ea06a7-f4cb-4f6a-8311-26a93c790de7', l='world', x=189.50, y=81.00, z=-9.50, cx=11, cd=-1, tl=628, v=true, d=false]
+[01:20:54] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[01:20:55] [Netty Epoll Server IO #2/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[01:20:55] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityPig['Pig'/490952, uuid='3aceaa3f-f9c9-46c4-83fb-53fc0c149295', l='world', x=190.70, y=81.00, z=-8.37, cx=11, cd=-1, tl=658, v=true, d=false]
+[01:20:55] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[01:20:57] [Netty Epoll Server IO #2/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[01:20:57] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityCow['Cow'/490955, uuid='fe2ca4a1-55aa-4bba-9f91-921b712ec1ab', l='world', x=193.50, y=81.00, z=-7.50, cx=12, cd=-1, tl=690, v=true, d=false]
+[01:20:57] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[01:21:20] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[01:21:20] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityHorse['Horse'/431580, uuid='fc6465f3-2115-4797-a144-9b9444899f2e', l='world', x=229.09, y=82.00, z=-5.99, cx=14, cd=-1, tl=3540, v=true, d=false]
+[01:21:20] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[01:21:29] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[01:21:29] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityHorse['Horse'/231029, uuid='4cc3cea7-86ef-4f96-b457-89dd7387d875', l='world', x=244.18, y=77.00, z=19.01, cx=15, cd=1, tl=16123, v=true, d=false]
+[01:21:29] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[01:21:32] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[01:21:32] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityHorse['Horse'/231029, uuid='4cc3cea7-86ef-4f96-b457-89dd7387d875', l='world', x=251.06, y=78.00, z=18.46, cx=15, cd=1, tl=16181, v=true, d=false]
+[01:21:32] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[01:21:51] [Netty Epoll Server IO #2/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[01:21:51] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityInfHuman['Assimilated Human'/355479, uuid='ee319d10-d9ef-470f-a093-b3958af92797', l='world', x=93.42, y=69.00, z=10.16, cx=5, cd=0, tl=8172, v=true, d=false]
+[01:21:51] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[01:21:52] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[01:21:52] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityPig['Pig'/534187, uuid='b4d13e47-81b0-489d-ba7a-d9992fb57ee0', l='world', x=230.63, y=66.00, z=71.71, cx=14, cd=4, tl=199, v=true, d=false]
+[01:21:52] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[01:21:53] [Netty Epoll Server IO #2/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[01:21:53] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityInfHuman['Assimilated Human'/355479, uuid='ee319d10-d9ef-470f-a093-b3958af92797', l='world', x=94.83, y=69.00, z=9.25, cx=5, cd=0, tl=8198, v=true, d=false]
+[01:21:53] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[01:21:54] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[01:21:54] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityPig['Pig'/534187, uuid='b4d13e47-81b0-489d-ba7a-d9992fb57ee0', l='world', x=232.50, y=66.00, z=75.54, cx=14, cd=4, tl=233, v=true, d=false]
+[01:21:54] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[01:21:56] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[01:21:56] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityPig['Pig'/534186, uuid='e82966d2-814f-4a19-ab83-b683ca0c0e71', l='world', x=235.44, y=66.00, z=79.49, cx=14, cd=4, tl=275, v=true, d=false]
+[01:21:56] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[01:21:57] [Netty Epoll Server IO #2/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[01:21:57] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityInfHumanHead['Walking Head'/539707, uuid='90b8651b-d724-4c9e-9dde-f5a2de8c4a39', l='world', x=104.45, y=69.00, z=6.59, cx=6, cd=0, tl=60, v=true, d=false]
+[01:21:57] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[01:21:58] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[01:21:59] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntitySheep['Sheep'/534185, uuid='54fae191-b7c8-45e3-a6c3-c14085d47596', l='world', x=238.62, y=66.00, z=80.45, cx=14, cd=5, tl=320, v=true, d=false]
+[01:21:59] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[01:22:01] [Netty Epoll Server IO #2/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[01:22:01] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityInfHumanHead['Walking Head'/539707, uuid='90b8651b-d724-4c9e-9dde-f5a2de8c4a39', l='world', x=101.18, y=71.00, z=0.06, cx=6, cd=0, tl=126, v=true, d=false]
+[01:22:01] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[01:22:01] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[01:22:01] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityPig['Pig'/534188, uuid='b66f5e95-e17e-40f7-b31e-08be7093c90d', l='world', x=236.20, y=66.00, z=76.77, cx=14, cd=4, tl=369, v=true, d=false]
+[01:22:01] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[01:22:14] [Netty Epoll Server IO #2/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[01:22:14] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntitySheep['Sheep'/543981, uuid='73142d85-aeca-4246-bb2e-8789d6a4aa75', l='world', x=69.50, y=65.00, z=24.50, cx=4, cd=1, tl=229, v=true, d=false]
+[01:22:14] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[01:22:51] [Async Chat Thread - 12/INFO] []: <ferneyprogamer13> te deje comida
+[01:23:03] [Async Chat Thread - 12/INFO] []: <slendy3021> donde?
+[01:23:06] [Async Chat Thread - 12/INFO] []: <slendy3021> yo ya tengo
+[01:23:06] [Async Chat Thread - 12/INFO] []: <ferneyprogamer13> lo tines?
+[01:23:10] [Async Chat Thread - 12/INFO] []: <ferneyprogamer13> en la escalera
+[01:23:13] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[01:23:13] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntitySheep['Sheep'/175788, uuid='d5d03a7c-afad-433e-98a7-024450b7c581', l='world', x=92.50, y=66.00, z=110.50, cx=5, cd=6, tl=18225, v=true, d=false]
+[01:23:13] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[01:23:15] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[01:23:15] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityPig['Pig'/175787, uuid='f0c7515d-7153-4d24-8283-5129d3a00e16', l='world', x=89.50, y=67.00, z=114.22, cx=5, cd=7, tl=18864, v=true, d=false]
+[01:23:15] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[01:23:17] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[01:23:17] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityHorse['Horse'/175784, uuid='f946aad1-5710-44ee-86af-e6f7ae15c076', l='world', x=95.50, y=66.00, z=108.50, cx=5, cd=6, tl=18308, v=true, d=false]
+[01:23:17] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[01:23:21] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[01:23:21] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityPig['Pig'/157334, uuid='7beb8899-023c-4eca-9f8e-1e5b367e2ea5', l='world', x=78.50, y=71.00, z=103.50, cx=4, cd=6, tl=19187, v=true, d=false]
+[01:23:21] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[01:23:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:23:31] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[01:23:31] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityChicken['Chicken'/506857, uuid='8a803b23-bfc2-4505-b66c-e3b0dd9a7cb7', l='world', x=84.50, y=69.00, z=115.76, cx=5, cd=7, tl=15889, v=true, d=false]
+[01:23:31] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[01:23:38] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[01:23:38] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntitySheep['Sheep'/506856, uuid='cddeddd8-5a58-4381-a31c-94ce28e12f6d', l='world', x=91.49, y=67.00, z=124.73, cx=5, cd=7, tl=16025, v=true, d=false]
+[01:23:38] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[01:23:42] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ferneyprogamer13 lost connection: Disconnected
+[01:23:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ferneyprogamer13 left the game
+[01:23:45] [User Authenticator #4/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player ferneyprogamer13 is 8f270557-484e-3245-81fd-0b1e8c08beb5
+[01:23:45] [Server thread/TRACE] [FML]: Handshake channel activating
+[01:23:45] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[01:23:45] [Server thread/DEBUG] [FML]:   Next: HELLO
+[01:23:45] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[01:23:45] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ModList:44 mods->FMLHandshakeServerState$2:HELLO
+[01:23:45] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 44 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,usefulbackpacks@1.5.4.85,mixinbooter@8.3,cgm@0.15.3,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.1001,futuremc@0.2.6,loliasm@5.14,quark@r1.6-179,spartanshields@1.5.4,mcp@9.42,aquaacrobatics@1.15.3,nocubessrpnests@3.0.0,sanplayermodel@1.2.2,enhancedvisuals@1.3.0,xaeroworldmap@1.32.0,securitycraft@v1.9.6,autoreglib@1.3-32,reskillable@1.12.2-1.13.0,sanlib@1.6.3,FML@8.0.99.99,obfuscate@0.4.2,forgelin@1.8.3,sapturretmod@4.0.0-beta.4.6,foamfixcore@7.7.4,srparasites@1.9.12,uteamcore@2.2.5.255,spartanweaponry@beta 1.3.8,appleskin@1.0.14,xaerominimap_core@1.12.2-1.0,additionalstructures@2.5.0,waila@1.8.26,foamfix@@VERSION@,charm@1.4,xaerobetterpvp@22.8.0,nocubessrpsurvival@3.0.0,forge@14.23.5.2859,xaeroworldmap_core@1.12.2-1.0,playerrevive@1.0,orelib@3.6.0.1,dsurround@3.6.1.0,overlast@0.2.8
+[01:23:45] [Netty Epoll Server IO #3/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist, lostcities] modCLIENT
+[01:23:45] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: WAITINGCACK
+[01:23:45] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[01:23:45] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: COMPLETE
+[01:23:46] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[01:23:46] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: DONE
+[01:23:46] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[01:23:46] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:23:46] [Server thread/INFO] [dsurround]: Player [ferneyprogamer13] connected with Dynamic Surroundings 3.6.1.0
+[01:23:46] [Server thread/INFO] [Waila]: Player EntityPlayerMP['ferneyprogamer13'/577576, uuid='8f270557-484e-3245-81fd-0b1e8c08beb5', l='world', x=81.16, y=64.00, z=132.31, cx=5, cd=8, tl=29788, v=true, d=false](ferneyprogamer13 at 81.16420466578306,64.0,132.30879846457896) connected. Sending ping
+[01:23:46] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: ferneyprogamer13[/127.162.61.122:42605] logged in with entity id 577576 at ([world]81.16420466578306, 64.0, 132.30879846457896)
+[01:23:46] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[01:24:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given    [Stone Pickaxe] * 1 to slendy3021]
+[01:24:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: slendy3021 has made the advancement [Getting an Upgrade]

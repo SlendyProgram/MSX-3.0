@@ -629,6 +629,16 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "zombie_villager": "2024-11-28 01:17:23 +0000",
+      "skeleton": "2024-11-28 01:16:37 +0000",
+      "zombie": "2024-11-28 01:15:26 +0000",
+      "spider": "2024-11-28 01:14:56 +0000",
+      "creeper": "2024-11-28 01:17:06 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_the_recipe": "2024-11-28 00:58:31 +0000"
@@ -851,6 +861,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-11-28 01:16:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_the_recipe": "2024-11-28 00:58:31 +0000"
@@ -1013,6 +1029,12 @@
     },
     "done": true
   },
+  "reskillable:main/attack_5": {
+    "criteria": {
+      "level_up": "2024-11-28 01:20:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2024-11-28 00:58:31 +0000"
@@ -1076,6 +1098,12 @@
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2024-11-28 00:58:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "spider": "2024-11-28 01:14:56 +0000"
     },
     "done": true
   },
@@ -1237,6 +1265,12 @@
   "minecraft:recipes/misc/red_dye_from_tulip": {
     "criteria": {
       "has_the_recipe": "2024-11-28 00:58:31 +0000"
+    },
+    "done": true
+  },
+  "reskillable:main/root": {
+    "criteria": {
+      "level_up": "2024-11-28 01:20:07 +0000"
     },
     "done": true
   },
