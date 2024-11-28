@@ -497,6 +497,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2024-11-28 01:51:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_the_recipe": "2024-11-28 00:58:39 +0000"
@@ -1032,6 +1038,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2024-11-28 00:58:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-11-28 01:57:09 +0000"
     },
     "done": true
   },
@@ -1673,6 +1685,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-11-28 01:14:18 +0000",
+      "cooked_mutton": "2024-11-28 01:52:09 +0000",
+      "porkchop": "2024-11-28 01:56:18 +0000",
       "cooked_chicken": "2024-11-28 01:31:03 +0000"
     },
     "done": false
