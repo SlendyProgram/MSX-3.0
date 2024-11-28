@@ -1114,7 +1114,9 @@
       "forest": "2024-11-28 01:02:34 +0000",
       "birch_forest": "2024-11-28 01:02:36 +0000",
       "extreme_hills_with_trees": "2024-11-28 00:58:31 +0000",
-      "plains": "2024-11-28 00:58:36 +0000"
+      "plains": "2024-11-28 00:58:36 +0000",
+      "ocean": "2024-11-28 01:09:21 +0000",
+      "river": "2024-11-28 01:09:20 +0000"
     },
     "done": false
   },
@@ -1640,6 +1642,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2024-11-28 01:07:02 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_the_recipe": "2024-11-28 00:58:31 +0000"
@@ -1823,6 +1831,12 @@
   "minecraft:recipes/decorations/cyan_carpet": {
     "criteria": {
       "has_the_recipe": "2024-11-28 00:58:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-11-28 01:07:02 +0000"
     },
     "done": true
   },
