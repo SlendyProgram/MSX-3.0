@@ -35,3 +35,25 @@
 [00:08:25] [Server thread/DEBUG] [mixin]: Mixing LockCodeMixin from mixins.lockcode.json into net.minecraft.world.LockCode
 [00:08:30] [Async Chat Thread - 6/INFO] []: <ferneyprogamer13> es mejor para los parasitos
 [00:09:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ferneyprogamer13 has made the advancement [Monster Hunter]
+[00:10:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:10:51] [Server thread/INFO] [OverLast]: Saving data to disk.
+[00:10:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Spring, day 1.
+[00:10:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Welcome to Radio Doom. See you at 8:00 every day. Radio Doom is waiting for your contact!
+[00:10:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: This is a special radio station for spring.
+[00:10:51] [Server thread/INFO] [OverLast]: Rain is on the way in 2322 ticks.
+[00:12:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ferneyprogamer13 has made the advancement [Stone Age]
+[00:12:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ferneyprogamer13 has made the advancement [Getting an Upgrade]
+[00:15:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:18:25] [Async Chat Thread - 7/INFO] []: <ferneyprogamer13> sara le soporta estos mods
+[00:18:29] [Async Chat Thread - 7/INFO] []: <slendy3021> no se
+[00:18:38] [Async Chat Thread - 7/INFO] []: <slendy3021> pero esta god en mi pc
+[00:18:44] [Async Chat Thread - 7/INFO] []: <slendy3021> y yo le instale winter os
+[00:18:59] [Async Chat Thread - 7/INFO] []: <ferneyprogamer13> ash niebla
+[00:19:43] [Server thread/INFO] [Meson ASM]: Transforming ItemHandlerHelper
+[00:19:43] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [insertItem, insertItem, ] Descriptor (Lnet/minecraftforge/items/IItemHandler;Lnet/minecraft/item/ItemStack;Z)Lnet/minecraft/item/ItemStack; / (Lnet/minecraftforge/items/IItemHandler;Laip;Z)Laip;)
+[00:19:43] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[00:19:43] [Server thread/INFO] [Meson ASM]: Located target ALOAD 0
+[00:19:43] [Server thread/INFO] [Meson ASM]: Patch result: true
+[00:19:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given    [Wooden Sword +18] * 1 to slendy3021]
+[00:19:59] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /gamerule sendCommandFeedback false
+[00:19:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Game rule sendCommandFeedback has been updated to false]
