@@ -22180,3 +22180,19 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [19:45:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given    [Stripped Dark Oak Log] * 1 to slendy3021]
 [19:45:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given    [Stripped Dark Oak Log] * 1 to slendy3021]
 [19:45:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given    [Stripped Dark Oak Log] * 1 to slendy3021]
+[19:46:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:46:24] [Server thread/INFO] [OverLast]: Saving data to disk.
+[19:46:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Winter, day 1.
+[19:46:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Some people say that the only thing that can't be lacking in the end of life is radio. What do you think? "I feel the same way!" Oh, thank you, so do I.
+[19:46:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: This is a special radio station for winter.
+[19:46:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given    [Stripped Spruce Log] * 1 to slendy3021]
+[19:46:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given    [Stripped Spruce Log] * 1 to slendy3021]
+[19:46:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given    [Stripped Spruce Log] * 1 to slendy3021]
+[19:46:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given    [Stripped Spruce Log] * 1 to slendy3021]
+[19:49:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given    [Stone Axe] * 1 to slendy3021]
+[19:49:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given    [Stripped Oak Wood] * 64 to slendy3021]
+[19:50:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given    [Stripped Spruce Log] * 64 to slendy3021]
+[19:51:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:51:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given    [Oak Wood Planks] * 64 to slendy3021]
+[19:52:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given    [Oak Wood Planks] * 64 to slendy3021]
+[19:54:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given    [Stripped Oak Log] * 64 to slendy3021]
