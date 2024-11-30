@@ -22230,3 +22230,11 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [20:11:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [20:16:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [20:21:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:26:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:26:24] [Server thread/INFO] [OverLast]: Saving data to disk.
+[20:26:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Winter, day 3.
+[20:26:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unfortunately, the north camp was captured again, but luckily, they had an additional holy place to jump from buildings.
+[20:26:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Yesterday was windy, today is snowy, I hope your funeral is not this cruel silver gray.
+[20:26:24] [Server thread/INFO] [OverLast]: Rain is on the way in 281 ticks.
+[20:26:39] [Server thread/INFO] [OverLast]: It's raining now. It's false that it is thundering. It'll last for 11066 ticks.
+[20:31:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
