@@ -22161,3 +22161,22 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [19:28:22] [Server thread/INFO] [Meson ASM]: Patch result: true
 [19:31:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [19:31:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given    [Universal Block Reinforcer (LvL3)] * 1 to slendy3021]
+[19:36:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:36:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given    [Stripped Spruce Wood] * 1 to slendy3021]
+[19:36:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given    [Stripped Spruce Wood] * 64 to slendy3021]
+[19:36:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given    [Stripped Oak Wood] * 64 to slendy3021]
+[19:38:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given    [Stripped Oak Log] * 64 to slendy3021]
+[19:40:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given    [Diamond Axe] * 1 to slendy3021]
+[19:41:06] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /xp 10000 slendy3021
+[19:41:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given 10000 experience to slendy3021]
+[19:41:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:42:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given    [Diamond Shovel] * 1 to slendy3021]
+[19:43:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given    [Grass Block] * 1 to slendy3021]
+[19:43:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given    [Grass Block] * 1 to slendy3021]
+[19:43:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given    [Grass Block] * 1 to slendy3021]
+[19:43:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given    [Grass Block] * 1 to slendy3021]
+[19:43:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given    [Grass Block] * 1 to slendy3021]
+[19:45:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given    [Stripped Dark Oak Log] * 1 to slendy3021]
+[19:45:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given    [Stripped Dark Oak Log] * 1 to slendy3021]
+[19:45:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given    [Stripped Dark Oak Log] * 1 to slendy3021]
+[19:45:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given    [Stripped Dark Oak Log] * 1 to slendy3021]
