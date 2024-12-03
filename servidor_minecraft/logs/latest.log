@@ -22129,3 +22129,35 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [23:10:02] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /gamemode survival
 [23:10:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Set own game mode to Survival Mode]
 [23:10:26] [Server thread/INFO] [OverLast]: It's raining now. It's true that it is thundering. It'll last for 9198 ticks.
+[23:10:53] [Server thread/INFO] [Meson ASM]: Transforming ISpecialArmor
+[23:10:53] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [applyArmor, applyArmor, ] Descriptor (Lnet/minecraft/entity/EntityLivingBase;Lnet/minecraft/util/NonNullList;Lnet/minecraft/util/DamageSource;D)F / (Lvp;Lfi;Lur;D)F)
+[23:10:53] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[23:10:53] [Server thread/INFO] [Meson ASM]: Located target ALOAD 1
+[23:10:53] [Server thread/INFO] [Meson ASM]: Patch result: true
+[23:10:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:11:55] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /gamemode creative
+[23:11:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Set own game mode to Creative Mode]
+[23:13:00] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /gamemode survival
+[23:13:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Set own game mode to Survival Mode]
+[23:15:10] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /gamemode creative
+[23:15:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Set own game mode to Creative Mode]
+[23:15:15] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /gamemode survival
+[23:15:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Set own game mode to Survival Mode]
+[23:15:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:16:14] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /gamemode creative
+[23:16:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Set own game mode to Creative Mode]
+[23:16:16] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /gamemode survival
+[23:16:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Set own game mode to Survival Mode]
+[23:16:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given    [Crafting Table] * 1 to slendy3021]
+[23:16:40] [Server thread/INFO] [Quark ASM]: Transforming net.minecraft.inventory.ContainerWorkbench
+[23:16:40] [Server thread/INFO] [Quark ASM]: Applying Transformation to method (Names [transferStackInSlot, func_82846_b] Descriptor (Lnet/minecraft/entity/player/EntityPlayer;I)Lnet/minecraft/item/ItemStack;)
+[23:16:40] [Server thread/INFO] [Quark ASM]: Located Method, patching...
+[23:16:40] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[23:16:40] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[23:16:40] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[23:16:40] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[23:16:40] [Server thread/INFO] [Quark ASM]: Patch result: true
+[23:17:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given    [Living Chestplate] * 1 to slendy3021]
+[23:18:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given    [fluid.deadblood Bucket] * 1 to slendy3021]
+[23:18:38] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /gamemode creative
+[23:18:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Set own game mode to Creative Mode]
