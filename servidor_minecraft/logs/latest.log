@@ -22061,3 +22061,27 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [22:49:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Summer, day 2.
 [22:49:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unfortunately, the north camp was captured again, but luckily, they had an additional holy place to jump from buildings.
 [22:49:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: This is a special radio station for summer.
+[22:50:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:51:17] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /give securitycraft:reinforced_stone_brick
+[22:51:26] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /give slendy3021 securitycraft:reinforced_stone_brick
+[22:51:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given    [Reinforced Stone Bricks] * 1 to slendy3021]
+[22:52:36] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /fill -630 73 199 -597 69 199 securitycraft:reinforced_stone_brick
+[22:52:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: 126 blocks filled]
+[22:53:59] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /fill -630 64 177 -630 74 199 securitycraft:reinforced_stone_brick
+[22:53:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: 243 blocks filled]
+[22:54:15] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /fill -630 64 177 -630 74 199 air
+[22:54:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: 253 blocks filled]
+[22:54:25] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /fill -631 64 177 -631 74 199 air
+[22:54:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: 10 blocks filled]
+[22:54:35] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /fill -631 64 177 -631 74 199 securitycraft:reinforced_stone_brick
+[22:54:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: 253 blocks filled]
+[22:55:46] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /fill -631 73 177 securitycraft:reinforced_stone_brick
+[22:55:49] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /fill -631 73 177 securitycraft:reinforced_stone_brick
+[22:55:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:56:15] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /fill -598 64 177 -631 73 177 securitycraft:reinforced_stone_brick
+[22:56:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: 331 blocks filled]
+[22:56:41] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /fill -598 64 177 -631 73 177 securitycraft:reinforced_stone_brick
+[22:56:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: No blocks filled]
+[22:57:01] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /fill -598 64 177 securitycraft:reinforced_stone_brick
+[22:57:19] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /fill -598 64 177 -598 73 199 securitycraft:reinforced_stone_brick
+[22:57:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: 211 blocks filled]
