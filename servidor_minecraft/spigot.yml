@@ -12,16 +12,21 @@
 
 config-version: 11
 settings:
-  timeout-time: 90
-  restart-on-crash: true
-  restart-script: ./start.sh
-  netty-threads: 4
+  bungeecord: false
+  user-cache-size: 1000
+  save-user-cache-on-stop-only: false
+  sample-count: 12
+  player-shuffle: 0
   late-bind: false
   filter-creative-items: true
   int-cache-limit: 1024
   moved-wrongly-threshold: 0.0625
   moved-too-quickly-multiplier: 10.0
   item-dirty-ticks: 20
+  timeout-time: 90
+  restart-on-crash: true
+  restart-script: ./start.sh
+  netty-threads: 4
   attribute:
     maxHealth:
       max: 2048.0
@@ -29,24 +34,6 @@ settings:
       max: 2048.0
     attackDamage:
       max: 2048.0
-  bungeecord: false
-  user-cache-size: 1000
-  save-user-cache-on-stop-only: false
-  sample-count: 12
-  player-shuffle: 0
-messages:
-  restart: Server is restarting
-commands:
-  log: true
-  spam-exclusions:
-  - /skill
-  replace-commands:
-  - setblock
-  - summon
-  - testforblock
-  - tellraw
-  tab-complete: 0
-  silent-commandblock-console: false
 advancements:
   disable-saving: false
   disabled:
@@ -54,11 +41,22 @@ advancements:
 stats:
   disable-saving: false
   forced-stats: {}
+commands:
+  tab-complete: 0
+  silent-commandblock-console: false
+  spam-exclusions:
+  - /skill
+  replace-commands:
+  - setblock
+  - summon
+  - testforblock
+  - tellraw
+  log: true
+messages:
+  restart: Server is restarting
 world-settings:
   default:
     verbose: false
-    random-light-updates: false
-    save-structure-info: true
     dragon-death-sound-radius: 0
     seed-village: 10387312
     seed-feature: 14357617
@@ -103,20 +101,22 @@ world-settings:
       hopper-transfer: 8
       hopper-check: 1
     hopper-amount: 1
+    random-light-updates: false
+    save-structure-info: true
+    enable-zombie-pigmen-portal-spawns: true
     arrow-despawn-rate: 1200
     merge-radius:
       item: 2.5
       exp: 3.0
     wither-spawn-sound-radius: 0
     view-distance: 10
-    item-despawn-rate: 6000
-    hanging-tick-frequency: 100
-    zombie-aggressive-towards-villager: true
-    nerf-spawner-mobs: false
-    enable-zombie-pigmen-portal-spawns: true
     entity-tracking-range:
       players: 48
       animals: 48
       monsters: 48
       misc: 32
       other: 64
+    hanging-tick-frequency: 100
+    zombie-aggressive-towards-villager: true
+    item-despawn-rate: 6000
+    nerf-spawner-mobs: false
