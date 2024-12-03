@@ -22201,3 +22201,8 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [23:29:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Set own game mode to Creative Mode]
 [23:29:58] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /gamemode survival
 [23:29:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Set own game mode to Survival Mode]
+[23:30:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:34:08] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /gamemode creative
+[23:34:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Set own game mode to Creative Mode]
+[23:35:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:36:20] [Server thread/INFO] [OverLast]: It's raining now. It's true that it is thundering. It'll last for 11988 ticks.
