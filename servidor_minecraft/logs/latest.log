@@ -22104,3 +22104,10 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [14:13:57] [Server thread/INFO] [Waila]: Player EntityPlayerMP['slendy3021'/72877, uuid='2f7b0dae-90da-3fab-a9a9-d67a016efa69', l='world', x=-528.71, y=64.00, z=238.30, cx=-34, cd=14, tl=697042, v=true, d=false](slendy3021 at -528.7116015969651,64.0,238.30000001192093) connected. Sending ping
 [14:13:57] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: slendy3021[/127.77.189.225:49711] logged in with entity id 72877 at ([world]-528.7116015969651, 64.0, 238.30000001192093)
 [14:13:57] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[14:15:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[14:20:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[14:21:38] [Server thread/INFO] [OverLast]: Saving data to disk.
+[14:21:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Fall, day 1.
+[14:21:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: This is a high evolution level text, originally designed for modpacks.
+[14:21:38] [Server thread/INFO] [OverLast]: Rain is on the way in 660 ticks.
+[14:22:12] [Server thread/INFO] [OverLast]: It's raining now. It's false that it is thundering. It'll last for 10693 ticks.
