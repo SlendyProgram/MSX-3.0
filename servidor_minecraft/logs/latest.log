@@ -962,3 +962,9 @@ java.lang.NullPointerException: null
 [02:44:07] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
 [02:44:07] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityLesh['Moving Flesh'/1516840, uuid='6bdbd3f8-0fe8-4529-a204-0fefae0f4a21', l='DIM-1', x=30.22, y=36.00, z=-171.26, cx=1, cd=-11, tl=222, v=true, d=false]
 [02:44:07] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:46:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:49:57] [Server thread/INFO] [OverLast]: Saving data to disk.
+[02:49:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Summer, day 2.
+[02:49:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: In the east parasites beasts with the Himuras of the abandoned building. Guess who won?
+[02:49:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: This is a special radio station for summer.
+[02:51:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
