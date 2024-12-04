@@ -306,3 +306,15 @@
 [01:10:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [01:15:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [01:20:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:24:37] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /gamemode survival
+[01:24:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Set own game mode to Survival Mode]
+[01:25:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: slendy3021 is bleeding...
+[01:26:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:26:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set slendy3021's game mode to Creative Mode
+[01:26:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: slendy3021 was slain by Grunt
+[01:28:22] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /srpevolution getphase
+[01:29:53] [Server thread/INFO] [OverLast]: Saving data to disk.
+[01:29:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Spring, day 1.
+[01:29:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: This is a high evolution level text, originally designed for modpacks.
+[01:29:53] [Server thread/INFO] [OverLast]: Rain is on the way in 5758 ticks.
+[01:31:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
