@@ -809,6 +809,12 @@
     },
     "done": true
   },
+  "nocubessrparmory:advlivingpart": {
+    "criteria": {
+      "advlivingpart": "2024-12-04 01:45:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_hardened_clay": {
     "criteria": {
       "has_the_recipe": "2024-11-30 01:14:38 +0000"
@@ -2111,6 +2117,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_the_recipe": "2024-11-30 01:14:38 +0000"
+    },
+    "done": true
+  },
+  "nocubessrparmory:advevolutionarmor": {
+    "criteria": {
+      "advevolutionarmor": "2024-12-04 01:48:00 +0000"
     },
     "done": true
   },

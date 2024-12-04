@@ -382,3 +382,31 @@
 [01:43:29] [Netty Epoll Server IO #3/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
 [01:43:29] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityMudo['Rupter'/940680, uuid='71ca24a1-dafc-42a8-a2a2-f64b057a3898', l='world', x=-555.40, y=68.00, z=-46.07, cx=-35, cd=-3, tl=109, v=true, d=false]
 [01:43:29] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[01:44:21] [Async Chat Thread - 19/INFO] []: <ferneyprogamer13> bro
+[01:44:24] [Netty Epoll Server IO #3/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[01:44:24] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityMudo['Rupter'/944282, uuid='8d5994d7-7fd4-4453-b11a-6a5e49ac6c1b', l='world', x=-574.07, y=67.88, z=21.71, cx=-36, cd=1, tl=143, v=true, d=false]
+[01:44:24] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[01:44:35] [Async Chat Thread - 19/INFO] []: <ferneyprogamer13> se corro,pio
+[01:44:36] [Netty Epoll Server IO #3/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[01:44:36] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityMudo['Rupter'/945444, uuid='10528ec9-ef94-4605-bc5e-e85702d281c7', l='world', x=-573.74, y=68.09, z=40.96, cx=-36, cd=2, tl=48, v=true, d=false]
+[01:44:36] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[01:44:39] [Netty Epoll Server IO #3/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[01:44:39] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityInhooS['Incomplete Form'/943235, uuid='e9e921c1-3667-451d-8dce-96a7f24eee89', l='world', x=-569.55, y=68.00, z=45.59, cx=-36, cd=2, tl=635, v=true, d=false]
+[01:44:39] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[01:44:41] [Async Chat Thread - 19/INFO] []: <slendy3021> que? jaja
+[01:44:53] [Async Chat Thread - 19/INFO] []: <ferneyprogamer13> todo es rojo cierto
+[01:45:37] [Async Chat Thread - 19/INFO] []: <ferneyprogamer13> avreme
+[01:45:38] [Async Chat Thread - 19/INFO] []: <ferneyprogamer13> abreme
+[01:46:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:46:04] [Async Chat Thread - 19/INFO] []: <ferneyprogamer13> lit todo es rojo
+[01:46:13] [Async Chat Thread - 19/INFO] []: <slendy3021> tome
+[01:46:48] [Async Chat Thread - 19/INFO] []: <ferneyprogamer13> .=
+[01:46:52] [Async Chat Thread - 19/INFO] []: <ferneyprogamer13> grax
+[01:46:56] [Async Chat Thread - 19/INFO] []: <ferneyprogamer13> mas proteccion
+[01:46:57] [Async Chat Thread - 19/INFO] []: <slendy3021> tengo miedo jajaj
+[01:46:59] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ferneyprogamer13 lost connection: Disconnected
+[01:46:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ferneyprogamer13 left the game
+[01:49:53] [Server thread/INFO] [OverLast]: Saving data to disk.
+[01:49:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Spring, day 2.
+[01:49:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: This is a high evolution level text, originally designed for modpacks.
+[01:51:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
