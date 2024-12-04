@@ -135,3 +135,45 @@
 [00:31:16] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 lost connection: Timed out
 [00:31:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: slendy3021 left the game
 [00:31:16] [Server thread/WARN] [Mohist]: handle Disconnection() called twice
+[00:32:37] [Async Chat Thread - 13/INFO] []: <ferneyprogamer13> yes
+[00:35:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:39:13] [Server thread/DEBUG] [FML]: Quark loaded a new chunk [-34, -31] in dimension 0 (overworld) while populating chunk [-34, -30], causing cascading worldgen lag.
+[00:39:13] [Server thread/DEBUG] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:39:13] [Server thread/DEBUG] [FML]: Quark loaded a new chunk [-33, -31] in dimension 0 (overworld) while populating chunk [-34, -30], causing cascading worldgen lag.
+[00:39:13] [Server thread/DEBUG] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:39:37] [Netty Epoll Server IO #2/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[00:39:37] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityLesh['Moving Flesh'/456681, uuid='08dfc0e8-c6e5-4746-870c-c89967519a15', l='world', x=-505.51, y=11.00, z=-303.46, cx=-32, cd=-19, tl=142, v=true, d=false]
+[00:39:37] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[00:40:26] [Server thread/DEBUG] [FML]: Quark loaded a new chunk [-32, -33] in dimension 0 (overworld) while populating chunk [-32, -32], causing cascading worldgen lag.
+[00:40:26] [Server thread/DEBUG] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:40:46] [Netty Epoll Server IO #2/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[00:40:46] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityCreeper['Creeper'/456008, uuid='8581e0a8-44dc-46d8-88ac-3d680a63b541', l='world', x=-507.50, y=17.00, z=-337.50, cx=-32, cd=-22, tl=1715, v=true, d=false]
+[00:40:46] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[00:40:46] [Netty Epoll Server IO #2/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[00:40:46] [Netty Epoll Server IO #2/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[00:40:46] [Netty Epoll Server IO #2/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[00:40:46] [Netty Epoll Server IO #2/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[00:40:46] [Netty Epoll Server IO #2/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[00:40:46] [Netty Epoll Server IO #2/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[00:40:46] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityCreeper['Creeper'/456008, uuid='8581e0a8-44dc-46d8-88ac-3d680a63b541', l='world', x=-507.58, y=17.36, z=-337.30, cx=-32, cd=-22, tl=1716, v=true, d=false]
+[00:40:46] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[00:40:46] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityCreeper['Creeper'/456008, uuid='8581e0a8-44dc-46d8-88ac-3d680a63b541', l='world', x=-507.58, y=17.36, z=-337.30, cx=-32, cd=-22, tl=1716, v=true, d=false]
+[00:40:46] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[00:40:46] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityCreeper['Creeper'/456008, uuid='8581e0a8-44dc-46d8-88ac-3d680a63b541', l='world', x=-507.58, y=17.36, z=-337.30, cx=-32, cd=-22, tl=1716, v=true, d=false]
+[00:40:46] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[00:40:46] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityCreeper['Creeper'/456008, uuid='8581e0a8-44dc-46d8-88ac-3d680a63b541', l='world', x=-507.58, y=17.36, z=-337.30, cx=-32, cd=-22, tl=1716, v=true, d=false]
+[00:40:46] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[00:40:46] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityCreeper['Creeper'/456008, uuid='8581e0a8-44dc-46d8-88ac-3d680a63b541', l='world', x=-507.58, y=17.36, z=-337.30, cx=-32, cd=-22, tl=1716, v=true, d=false]
+[00:40:46] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[00:40:46] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityCreeper['Creeper'/456008, uuid='8581e0a8-44dc-46d8-88ac-3d680a63b541', l='world', x=-507.58, y=17.36, z=-337.30, cx=-32, cd=-22, tl=1716, v=true, d=false]
+[00:40:46] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[00:40:48] [Netty Epoll Server IO #2/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[00:40:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:41:04] [Server thread/DEBUG] [FML]: Quark loaded a new chunk [-43, -31] in dimension 0 (overworld) while populating chunk [-43, -30], causing cascading worldgen lag.
+[00:41:04] [Server thread/DEBUG] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:41:04] [Server thread/DEBUG] [FML]: Quark loaded a new chunk [-43, -32] in dimension 0 (overworld) while populating chunk [-43, -30], causing cascading worldgen lag.
+[00:41:04] [Server thread/DEBUG] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:41:04] [Server thread/DEBUG] [FML]: Quark loaded a new chunk [-42, -32] in dimension 0 (overworld) while populating chunk [-43, -30], causing cascading worldgen lag.
+[00:41:04] [Server thread/DEBUG] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:41:04] [Server thread/DEBUG] [FML]: Quark loaded a new chunk [-42, -33] in dimension 0 (overworld) while populating chunk [-43, -30], causing cascading worldgen lag.
+[00:41:04] [Server thread/DEBUG] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
