@@ -22135,3 +22135,6 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [15:21:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Winter, day 1.
 [15:21:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: This is a high evolution level text, originally designed for modpacks.
 [15:21:39] [Server thread/INFO] [OverLast]: Rain is on the way in 5491 ticks.
+[15:25:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:26:14] [Server thread/INFO] [OverLast]: It's raining now. It's false that it is thundering. It'll last for 12972 ticks.
+[15:30:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
