@@ -862,3 +862,103 @@ java.lang.NullPointerException: null
 [02:34:01] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
 [02:34:01] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityLesh['Moving Flesh'/1449126, uuid='e1ef66e1-a0ff-4a5e-a2cb-12740eb73d08', l='DIM-1', x=80.49, y=36.00, z=-149.95, cx=5, cd=-10, tl=727, v=true, d=false]
 [02:34:01] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:35:29] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:35:29] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityInhooM['Incomplete Form'/1474963, uuid='0c5d1803-ed95-4a9f-bd2d-570f3a909ed0', l='world', x=-116.86, y=63.00, z=-356.18, cx=-8, cd=-23, tl=1765, v=true, d=false]
+[02:35:29] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:36:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:40:37] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:40:37] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityMudo['Rupter'/1496021, uuid='6a8501d3-28f4-4ec8-b217-67b7057a0387', l='world', x=-521.75, y=70.14, z=-258.60, cx=-33, cd=-17, tl=136, v=true, d=false]
+[02:40:37] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:40:38] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:40:38] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityMudo['Rupter'/1496021, uuid='6a8501d3-28f4-4ec8-b217-67b7057a0387', l='world', x=-522.34, y=69.00, z=-258.99, cx=-33, cd=-17, tl=166, v=true, d=false]
+[02:40:38] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:41:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:41:10] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:41:10] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityMudo['Rupter'/1497796, uuid='6f7fa68d-0030-4617-bea0-b7c74eccb87d', l='world', x=-507.40, y=58.00, z=-244.81, cx=-32, cd=-16, tl=54, v=true, d=false]
+[02:41:10] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:41:12] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:41:12] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityMudo['Rupter'/1497796, uuid='6f7fa68d-0030-4617-bea0-b7c74eccb87d', l='world', x=-506.35, y=58.00, z=-244.66, cx=-32, cd=-16, tl=97, v=true, d=false]
+[02:41:12] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:42:02] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 lost connection: Disconnected
+[02:42:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: slendy3021 left the game
+[02:42:35] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:42:35] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityMudo['Rupter'/1500992, uuid='dcedcabb-1439-4a73-9261-1c8706396052', l='DIM-1', x=42.68, y=40.00, z=-63.12, cx=2, cd=-4, tl=765, v=true, d=false]
+[02:42:35] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:42:37] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:42:37] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityMudo['Rupter'/1500992, uuid='dcedcabb-1439-4a73-9261-1c8706396052', l='DIM-1', x=42.48, y=40.00, z=-63.32, cx=2, cd=-4, tl=803, v=true, d=false]
+[02:42:37] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:42:38] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:42:38] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityPigZombie['Zombie Pigman'/1500982, uuid='1ce914ea-7950-4e36-a522-13e849dcf6f9', l='DIM-1', x=41.16, y=41.00, z=-64.49, cx=2, cd=-5, tl=1589, v=true, d=false]
+[02:42:38] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:42:43] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:42:43] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityPigZombie['Zombie Pigman'/1500998, uuid='e08db32b-fc8f-4445-8c50-2fb9e58b6e33', l='DIM-1', x=56.52, y=45.00, z=-81.73, cx=3, cd=-6, tl=1692, v=true, d=false]
+[02:42:43] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:42:44] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:42:44] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityPigZombie['Zombie Pigman'/1500998, uuid='e08db32b-fc8f-4445-8c50-2fb9e58b6e33', l='DIM-1', x=56.20, y=45.00, z=-82.13, cx=3, cd=-6, tl=1718, v=true, d=false]
+[02:42:44] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:42:44] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:42:45] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityPigZombie['Zombie Pigman'/1500998, uuid='e08db32b-fc8f-4445-8c50-2fb9e58b6e33', l='DIM-1', x=55.68, y=45.64, z=-82.20, cx=3, cd=-6, tl=1720, v=true, d=false]
+[02:42:45] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:43:00] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:43:00] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityMudo['Rupter'/1503437, uuid='8f46dd0b-af64-45d6-8ac9-3f3e5622fdcd', l='DIM-1', x=55.55, y=45.00, z=-112.15, cx=3, cd=-8, tl=775, v=true, d=false]
+[02:43:00] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:43:03] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:43:03] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityPigZombie['Zombie Pigman'/1500998, uuid='e08db32b-fc8f-4445-8c50-2fb9e58b6e33', l='DIM-1', x=55.83, y=45.00, z=-115.16, cx=3, cd=-8, tl=2096, v=true, d=false]
+[02:43:03] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:43:06] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:43:06] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityPigZombie['Zombie Pigman'/1500978, uuid='08869fc4-3999-4636-87ca-942f1d65b987', l='DIM-1', x=56.72, y=45.00, z=-112.82, cx=3, cd=-8, tl=2144, v=true, d=false]
+[02:43:06] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:43:07] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:43:07] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityPigZombie['Zombie Pigman'/1500982, uuid='1ce914ea-7950-4e36-a522-13e849dcf6f9', l='DIM-1', x=56.38, y=45.00, z=-116.03, cx=3, cd=-8, tl=2167, v=true, d=false]
+[02:43:07] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:43:10] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:43:10] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityPigZombie['Zombie Pigman'/1500981, uuid='3be9dc9e-647b-4b3b-b55d-17d7cb7cb1dc', l='DIM-1', x=56.49, y=45.00, z=-124.76, cx=3, cd=-8, tl=1441, v=true, d=false]
+[02:43:10] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:43:12] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:43:12] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityPigZombie['Zombie Pigman'/1500981, uuid='3be9dc9e-647b-4b3b-b55d-17d7cb7cb1dc', l='DIM-1', x=56.36, y=45.00, z=-131.18, cx=3, cd=-9, tl=1480, v=true, d=false]
+[02:43:12] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:43:15] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:43:15] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityPigZombie['Zombie Pigman'/1500978, uuid='08869fc4-3999-4636-87ca-942f1d65b987', l='DIM-1', x=56.51, y=45.00, z=-140.33, cx=3, cd=-9, tl=2338, v=true, d=false]
+[02:43:15] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:43:17] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:43:17] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityPigZombie['Zombie Pigman'/1500989, uuid='a2941581-63a4-4f9b-9e71-a4d87a0609ba', l='DIM-1', x=56.46, y=45.00, z=-138.83, cx=3, cd=-9, tl=1804, v=true, d=false]
+[02:43:17] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:43:19] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:43:19] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityPigZombie['Zombie Pigman'/1500983, uuid='c0be19a5-3bd9-461e-9797-aa6596d98a90', l='DIM-1', x=56.48, y=45.00, z=-140.78, cx=3, cd=-9, tl=2008, v=true, d=false]
+[02:43:19] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:43:20] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:43:20] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityPigZombie['Zombie Pigman'/1500983, uuid='c0be19a5-3bd9-461e-9797-aa6596d98a90', l='DIM-1', x=56.53, y=45.00, z=-141.85, cx=3, cd=-9, tl=2033, v=true, d=false]
+[02:43:20] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:43:22] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:43:22] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityPigZombie['Zombie Pigman'/1500980, uuid='46af6ea4-30d7-4aba-8be1-ce2722a6eafb', l='DIM-1', x=56.44, y=45.00, z=-143.14, cx=3, cd=-9, tl=2462, v=true, d=false]
+[02:43:22] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:43:23] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:43:23] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityPigZombie['Zombie Pigman'/1500980, uuid='46af6ea4-30d7-4aba-8be1-ce2722a6eafb', l='DIM-1', x=56.47, y=45.00, z=-145.13, cx=3, cd=-10, tl=2492, v=true, d=false]
+[02:43:23] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:43:26] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:43:26] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityPigZombie['Zombie Pigman'/1500979, uuid='f1717b2d-15fd-46f5-9010-3cfdb7ef63cf', l='DIM-1', x=56.40, y=45.00, z=-140.49, cx=3, cd=-9, tl=2652, v=true, d=false]
+[02:43:26] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:43:41] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:43:41] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityPigZombie['Zombie Pigman'/1511052, uuid='7e0a5315-ece0-448c-b427-bda0662795c7', l='DIM-1', x=55.50, y=45.00, z=-144.63, cx=3, cd=-10, tl=491, v=true, d=false]
+[02:43:41] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:43:43] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:43:43] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityPigZombie['Zombie Pigman'/1510750, uuid='5a19207a-b276-49dd-9347-d9c64ebe7828', l='DIM-1', x=55.52, y=45.00, z=-138.83, cx=3, cd=-9, tl=568, v=true, d=false]
+[02:43:43] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:43:45] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:43:45] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityPigZombie['Zombie Pigman'/1510750, uuid='5a19207a-b276-49dd-9347-d9c64ebe7828', l='DIM-1', x=55.47, y=45.00, z=-134.67, cx=3, cd=-9, tl=614, v=true, d=false]
+[02:43:45] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:43:47] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:43:47] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityPigZombie['Zombie Pigman'/1511052, uuid='7e0a5315-ece0-448c-b427-bda0662795c7', l='DIM-1', x=55.55, y=45.00, z=-128.64, cx=3, cd=-9, tl=606, v=true, d=false]
+[02:43:47] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:43:55] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:43:55] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityPigZombie['Zombie Pigman'/1515344, uuid='d07182e2-7da4-49ca-946c-03597a781d8a', l='DIM-1', x=50.50, y=36.00, z=-160.50, cx=3, cd=-11, tl=186, v=true, d=false]
+[02:43:55] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:43:57] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:43:57] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityPigZombie['Zombie Pigman'/1515344, uuid='d07182e2-7da4-49ca-946c-03597a781d8a', l='DIM-1', x=52.15, y=36.00, z=-160.43, cx=3, cd=-11, tl=215, v=true, d=false]
+[02:43:57] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:44:00] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:44:00] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityPigZombie['Zombie Pigman'/1516634, uuid='9f645e9e-4c97-450a-850a-8755071d2265', l='DIM-1', x=49.50, y=36.00, z=-171.93, cx=3, cd=-11, tl=113, v=true, d=false]
+[02:44:00] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:44:07] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:44:07] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityLesh['Moving Flesh'/1516840, uuid='6bdbd3f8-0fe8-4529-a204-0fefae0f4a21', l='DIM-1', x=30.22, y=36.00, z=-171.26, cx=1, cd=-11, tl=222, v=true, d=false]
+[02:44:07] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
