@@ -304,3 +304,5 @@
 [01:09:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Winter, day 3.
 [01:09:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: This is a high evolution level text, originally designed for modpacks.
 [01:10:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:15:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:20:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
