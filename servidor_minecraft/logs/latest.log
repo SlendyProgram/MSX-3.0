@@ -276,3 +276,26 @@
 [00:52:22] [Netty Epoll Server IO #0/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
 [00:52:22] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityNoglaAdapted['Adapted Reeker'/503908, uuid='f541e01b-349f-4bc8-8c2c-302edf6279e0', l='world', x=-503.95, y=50.55, z=-255.78, cx=-32, cd=-16, tl=1716, v=true, d=false]
 [00:52:22] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[00:52:25] [Netty Epoll Server IO #0/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[00:52:26] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityNoglaAdapted['Adapted Reeker'/503908, uuid='f541e01b-349f-4bc8-8c2c-302edf6279e0', l='world', x=-503.95, y=50.55, z=-255.78, cx=-32, cd=-16, tl=1789, v=true, d=false]
+[00:52:26] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[00:52:27] [Netty Epoll Server IO #0/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[00:52:27] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityNoglaAdapted['Adapted Reeker'/503908, uuid='f541e01b-349f-4bc8-8c2c-302edf6279e0', l='world', x=-503.95, y=50.55, z=-255.78, cx=-32, cd=-16, tl=1822, v=true, d=false]
+[00:52:27] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[00:52:28] [Netty Epoll Server IO #0/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[00:52:28] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityNoglaAdapted['Adapted Reeker'/503908, uuid='f541e01b-349f-4bc8-8c2c-302edf6279e0', l='world', x=-503.95, y=50.55, z=-255.78, cx=-32, cd=-16, tl=1846, v=true, d=false]
+[00:52:28] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[00:53:50] [Async Chat Thread - 15/INFO] []: <ferneyprogamer13> acabo de matar un coso0 gigante
+[00:54:06] [Async Chat Thread - 15/INFO] []: <ferneyprogamer13> y ropio la mina
+[00:54:10] [Async Chat Thread - 15/INFO] []: <slendy3021> good jaja
+[00:54:16] [Async Chat Thread - 15/INFO] []: <ferneyprogamer13> garcias la laba
+[00:54:20] [Async Chat Thread - 15/INFO] []: <ferneyprogamer13> lava*
+[00:54:34] [Async Chat Thread - 15/INFO] []: <slendy3021> jaja
+[00:55:22] [Async Chat Thread - 15/INFO] []: <ferneyprogamer13> el amor duele*
+[00:55:27] [Async Chat Thread - 15/INFO] []: <slendy3021> que?
+[00:55:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:58:22] [Async Chat Thread - 16/INFO] []: <ferneyprogamer13> voy a salir
+[00:58:25] [Async Chat Thread - 16/INFO] []: <ferneyprogamer13> ya vengo
+[00:59:01] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ferneyprogamer13 lost connection: Disconnected
+[00:59:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ferneyprogamer13 left the game
+[01:00:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
