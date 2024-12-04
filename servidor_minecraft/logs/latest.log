@@ -22111,3 +22111,5 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [14:21:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: This is a high evolution level text, originally designed for modpacks.
 [14:21:38] [Server thread/INFO] [OverLast]: Rain is on the way in 660 ticks.
 [14:22:12] [Server thread/INFO] [OverLast]: It's raining now. It's false that it is thundering. It'll last for 10693 ticks.
+[14:25:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[14:30:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
