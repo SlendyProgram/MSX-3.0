@@ -410,3 +410,65 @@
 [01:49:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Spring, day 2.
 [01:49:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: This is a high evolution level text, originally designed for modpacks.
 [01:51:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:56:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:57:31] [User Authenticator #8/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player ferneyprogamer13 is 8f270557-484e-3245-81fd-0b1e8c08beb5
+[01:57:31] [Server thread/TRACE] [FML]: Handshake channel activating
+[01:57:31] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[01:57:31] [Server thread/DEBUG] [FML]:   Next: HELLO
+[01:57:32] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[01:57:32] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ModList:44 mods->FMLHandshakeServerState$2:HELLO
+[01:57:32] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 44 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,usefulbackpacks@1.5.4.85,mixinbooter@8.3,cgm@0.15.3,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.1001,futuremc@0.2.6,loliasm@5.14,quark@r1.6-179,spartanshields@1.5.4,mcp@9.42,aquaacrobatics@1.15.3,nocubessrpnests@3.0.0,sanplayermodel@1.2.2,enhancedvisuals@1.3.0,xaeroworldmap@1.32.0,securitycraft@v1.9.6,autoreglib@1.3-32,reskillable@1.12.2-1.13.0,sanlib@1.6.3,FML@8.0.99.99,obfuscate@0.4.2,forgelin@1.8.3,sapturretmod@4.0.0-beta.4.6,foamfixcore@7.7.4,srparasites@1.9.12,uteamcore@2.2.5.255,spartanweaponry@beta 1.3.8,appleskin@1.0.14,xaerominimap_core@1.12.2-1.0,additionalstructures@2.5.0,waila@1.8.26,foamfix@@VERSION@,charm@1.4,xaerobetterpvp@22.8.0,nocubessrpsurvival@3.0.0,forge@14.23.5.2859,xaeroworldmap_core@1.12.2-1.0,playerrevive@1.0,orelib@3.6.0.1,dsurround@3.6.1.0,overlast@0.2.8
+[01:57:32] [Netty Epoll Server IO #1/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist, lostcities] modCLIENT
+[01:57:32] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: WAITINGCACK
+[01:57:32] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[01:57:32] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: COMPLETE
+[01:57:32] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[01:57:32] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: DONE
+[01:57:32] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[01:57:32] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:57:32] [Server thread/INFO] [dsurround]: Player [ferneyprogamer13] connected with Dynamic Surroundings 3.6.1.0
+[01:57:32] [Server thread/INFO] [Waila]: Player EntityPlayerMP['ferneyprogamer13'/1004081, uuid='8f270557-484e-3245-81fd-0b1e8c08beb5', l='world', x=-618.77, y=70.00, z=185.19, cx=-39, cd=11, tl=302931, v=true, d=false](ferneyprogamer13 at -618.7666631457367,70.0,185.18692340999405) connected. Sending ping
+[01:57:32] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: ferneyprogamer13[/127.162.61.122:59883] logged in with entity id 1004081 at ([world]-618.7666631457367, 70.0, 185.18692340999405)
+[01:57:32] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[01:57:55] [Async Chat Thread - 20/INFO] []: <ferneyprogamer13> voli
+[01:58:01] [Async Chat Thread - 20/INFO] []: <slendy3021> se va a cada rato
+[01:58:20] [Async Chat Thread - 20/INFO] []: <ferneyprogamer13> veo que expande mas las cosa
+[01:58:33] [Async Chat Thread - 20/INFO] []: <slendy3021> si
+[01:58:49] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[01:58:49] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityMudo['Rupter'/1015673, uuid='77b32d1e-05e6-4f00-ab95-0f717cfbc665', l='world', x=-595.24, y=64.94, z=162.57, cx=-38, cd=10, tl=474, v=true, d=false]
+[01:58:49] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[01:58:54] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[01:58:54] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityMudo['Rupter'/1015673, uuid='77b32d1e-05e6-4f00-ab95-0f717cfbc665', l='world', x=-594.45, y=64.77, z=162.57, cx=-38, cd=10, tl=562, v=true, d=false]
+[01:58:54] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[01:59:26] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[01:59:26] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityLesh['Moving Flesh'/1029407, uuid='7fcb9021-d4fa-4af3-b6ef-91739c5e6177', l='world', x=-572.50, y=68.00, z=47.52, cx=-36, cd=2, tl=63, v=true, d=false]
+[01:59:26] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[01:59:29] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[01:59:29] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityLesh['Moving Flesh'/1029407, uuid='7fcb9021-d4fa-4af3-b6ef-91739c5e6177', l='world', x=-572.58, y=68.00, z=55.59, cx=-36, cd=3, tl=122, v=true, d=false]
+[01:59:29] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:00:05] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:00:05] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityMudo['Rupter'/1033198, uuid='ef2211b9-84cd-411f-a754-1d8555f95f67', l='world', x=-573.35, y=67.24, z=38.57, cx=-36, cd=2, tl=179, v=true, d=false]
+[02:00:05] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:00:06] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:00:06] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityMudo['Rupter'/1032353, uuid='e9d6def6-0bfd-4059-ab18-7924b7981bcb', l='world', x=-571.05, y=68.00, z=41.41, cx=-36, cd=2, tl=474, v=true, d=false]
+[02:00:06] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:00:08] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:00:08] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityMudo['Rupter'/1032353, uuid='e9d6def6-0bfd-4059-ab18-7924b7981bcb', l='world', x=-567.43, y=68.00, z=42.01, cx=-36, cd=2, tl=524, v=true, d=false]
+[02:00:08] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:00:50] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /gamemode survival
+[02:00:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Set own game mode to Survival Mode]
+[02:00:51] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:00:51] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityMudo['Rupter'/1037908, uuid='0195d0d1-8b37-45c9-9079-55a9df044d31', l='world', x=-539.56, y=66.00, z=-139.52, cx=-34, cd=-9, tl=208, v=true, d=false]
+[02:00:51] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:01:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:01:31] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /gamemode creative
+[02:01:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Set own game mode to Creative Mode]
+[02:01:58] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /gamemode survival
+[02:01:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Set own game mode to Survival Mode]
+[02:02:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given    [Fuel Capsule] * 1 to slendy3021]
+[02:02:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Given    [Fuel Capsule] * 64 to slendy3021]
+[02:03:04] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:03:04] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityMudo['Rupter'/1047072, uuid='45d40794-3e41-4f91-922d-6e84d7a03e67', l='world', x=-505.57, y=57.55, z=-248.57, cx=-32, cd=-16, tl=52, v=true, d=false]
+[02:03:04] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:04:10] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /gamemode creative
+[02:04:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Set own game mode to Creative Mode]
