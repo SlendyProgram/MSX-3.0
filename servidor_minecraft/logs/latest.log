@@ -762,3 +762,103 @@ java.lang.NullPointerException: null
 [02:24:17] [Async Chat Thread - 25/INFO] []: <slendy3021> valimos
 [02:24:20] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /srpevolution getphase
 [02:24:24] [Async Chat Thread - 25/INFO] []: <ferneyprogamer13> si
+[02:24:25] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /srpevolution addpoints 10000000
+[02:24:31] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /srpevolution addpoints 1000000
+[02:24:32] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:24:32] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityPigZombie['Zombie Pigman'/1200893, uuid='7c7bf714-570b-4d6f-87c0-a6460202d9e9', l='DIM-1', x=88.70, y=33.50, z=-152.30, cx=5, cd=-10, tl=6421, v=true, d=false]
+[02:24:32] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:24:33] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /srpevolution addpoints 1000000
+[02:24:34] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:24:34] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityPigZombie['Zombie Pigman'/1200893, uuid='7c7bf714-570b-4d6f-87c0-a6460202d9e9', l='DIM-1', x=87.57, y=33.50, z=-152.47, cx=5, cd=-10, tl=6454, v=true, d=false]
+[02:24:34] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:24:35] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /srpevolution addpoints 1000000
+[02:24:35] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:24:35] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityPigZombie['Zombie Pigman'/1192497, uuid='b17fc14b-5d40-4406-87b6-59ce81d97640', l='DIM-1', x=88.70, y=33.50, z=-153.74, cx=5, cd=-10, tl=7514, v=true, d=false]
+[02:24:35] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:24:36] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /srpevolution addpoints 1000000
+[02:24:37] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /srpevolution addpoints 1000000
+[02:24:37] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:24:37] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityPigZombie['Zombie Pigman'/1192497, uuid='b17fc14b-5d40-4406-87b6-59ce81d97640', l='DIM-1', x=88.50, y=33.50, z=-152.30, cx=5, cd=-10, tl=7550, v=true, d=false]
+[02:24:37] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:24:38] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /srpevolution addpoints 1000000
+[02:24:39] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /srpevolution addpoints 1000000
+[02:24:39] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:24:39] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityPigZombie['Zombie Pigman'/1194123, uuid='d3eccee7-67b6-4828-a043-b04db8291a9f', l='DIM-1', x=88.54, y=33.50, z=-152.71, cx=5, cd=-10, tl=7379, v=true, d=false]
+[02:24:39] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:24:39] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /srpevolution addpoints 1000000
+[02:24:41] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:24:41] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityPigZombie['Zombie Pigman'/1194123, uuid='d3eccee7-67b6-4828-a043-b04db8291a9f', l='DIM-1', x=88.28, y=33.50, z=-152.51, cx=5, cd=-10, tl=7413, v=true, d=false]
+[02:24:41] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:24:43] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:24:43] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityPigZombie['Zombie Pigman'/1181687, uuid='df81c80f-5e87-4776-9fcc-2adfa11b3f3c', l='DIM-1', x=88.43, y=33.50, z=-152.67, cx=5, cd=-10, tl=9075, v=true, d=false]
+[02:24:43] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:24:45] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /srpevolution addpoints 100000
+[02:24:46] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /srpevolution addpoints 100000
+[02:24:47] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /srpevolution addpoints 100000
+[02:24:47] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /srpevolution addpoints 100000
+[02:24:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /srpevolution addpoints 100000
+[02:24:49] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /srpevolution addpoints 100000
+[02:24:53] [Async Chat Thread - 25/INFO] []: <slendy3021> ay
+[02:25:00] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:25:00] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityMudo['Rupter'/1274715, uuid='374afdf1-bde5-4c7d-bbdf-8ea17b60bd8b', l='DIM-1', x=91.55, y=36.00, z=-158.74, cx=5, cd=-10, tl=449, v=true, d=false]
+[02:25:00] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:25:06] [Async Chat Thread - 25/INFO] []: <slendy3021> yo como que me pego un tiro
+[02:25:37] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /gamemode survival
+[02:25:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Set own game mode to Survival Mode]
+[02:25:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /gamemode creative
+[02:25:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Set own game mode to Creative Mode]
+[02:26:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:26:26] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:26:26] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityLesh['Moving Flesh'/1303760, uuid='072c9e04-45b9-4663-bbca-63ffc4eae348', l='DIM-1', x=93.20, y=32.55, z=-151.35, cx=5, cd=-10, tl=482, v=true, d=false]
+[02:26:26] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:26:38] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class de.sanandrew.mods.turretmod.entity.turret.EntityTurret from class de.sanandrew.mods.turretmod.entity.turret.DataWatcherBooleans
+[02:26:59] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:26:59] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityLesh['Moving Flesh'/1253139, uuid='3ded0f80-5acb-417b-b244-cc3859b822e9', l='DIM-1', x=83.91, y=36.00, z=-146.68, cx=5, cd=-10, tl=4083, v=true, d=false]
+[02:26:59] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:27:04] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:27:04] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityLesh['Moving Flesh'/1290742, uuid='b7a4a278-4371-46ac-a0f5-246df310b459', l='DIM-1', x=74.01, y=36.00, z=-164.93, cx=4, cd=-11, tl=1970, v=true, d=false]
+[02:27:04] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:29:13] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:29:13] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityMudo['Rupter'/1360138, uuid='11fd137a-2e44-4cff-b48c-4a1cbcdc2581', l='DIM-1', x=73.37, y=37.14, z=-146.46, cx=4, cd=-10, tl=216, v=true, d=false]
+[02:29:13] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:29:44] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:29:44] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityMudo['Rupter'/1359290, uuid='00d35928-8f70-4e90-b2da-6da9b7ee2f7e', l='DIM-1', x=92.21, y=36.75, z=-147.05, cx=5, cd=-10, tl=929, v=true, d=false]
+[02:29:44] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:29:54] [Server thread/INFO] [OverLast]: Saving data to disk.
+[02:29:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Summer, day 1.
+[02:29:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Think the radio station is boring and want to change channels? Sorry, this is a compulsory program! just listen just listen(。・ω・。)
+[02:29:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: This is a special radio station for summer.
+[02:30:41] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:30:41] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityBlaze['Blaze'/1387137, uuid='ae8d6bf3-3531-4ccd-934c-0e2e483dab55', l='DIM-1', x=79.74, y=45.70, z=-181.20, cx=4, cd=-12, tl=346, v=true, d=false]
+[02:30:41] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:30:42] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:30:42] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityBlaze['Blaze'/1387137, uuid='ae8d6bf3-3531-4ccd-934c-0e2e483dab55', l='DIM-1', x=78.59, y=45.76, z=-177.11, cx=4, cd=-12, tl=379, v=true, d=false]
+[02:30:42] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:30:51] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:30:51] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityPigZombie['Zombie Pigman'/1382602, uuid='c4009dcc-1ee0-4619-bc1f-7cda4e10c57e', l='DIM-1', x=86.50, y=43.00, z=-183.50, cx=5, cd=-12, tl=803, v=true, d=false]
+[02:30:51] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:30:52] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:30:52] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityPigZombie['Zombie Pigman'/1382602, uuid='c4009dcc-1ee0-4619-bc1f-7cda4e10c57e', l='DIM-1', x=83.80, y=43.00, z=-183.04, cx=5, cd=-12, tl=832, v=true, d=false]
+[02:30:52] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:30:59] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:30:59] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityMudo['Rupter'/1388349, uuid='3bf666ea-852a-498a-ac98-6daa232cccbb', l='DIM-1', x=70.85, y=36.09, z=-167.14, cx=4, cd=-11, tl=613, v=true, d=false]
+[02:30:59] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:31:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:33:45] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:33:45] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityNogla['Primitive Reeker'/1419795, uuid='3f944399-fa08-42a1-86a9-9daf7853b30f', l='DIM-1', x=92.45, y=32.00, z=-151.50, cx=5, cd=-10, tl=2099, v=true, d=false]
+[02:33:45] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:33:47] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:33:47] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityNogla['Primitive Reeker'/1419795, uuid='3f944399-fa08-42a1-86a9-9daf7853b30f', l='DIM-1', x=92.45, y=32.00, z=-151.50, cx=5, cd=-10, tl=2125, v=true, d=false]
+[02:33:47] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:33:48] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:33:48] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityNogla['Primitive Reeker'/1419795, uuid='3f944399-fa08-42a1-86a9-9daf7853b30f', l='DIM-1', x=92.49, y=32.00, z=-151.50, cx=5, cd=-10, tl=2150, v=true, d=false]
+[02:33:48] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:33:49] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:33:49] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityNogla['Primitive Reeker'/1419795, uuid='3f944399-fa08-42a1-86a9-9daf7853b30f', l='DIM-1', x=92.49, y=32.00, z=-151.50, cx=5, cd=-10, tl=2179, v=true, d=false]
+[02:33:49] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:33:54] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:33:54] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityNogla['Primitive Reeker'/1419795, uuid='3f944399-fa08-42a1-86a9-9daf7853b30f', l='DIM-1', x=94.76, y=34.00, z=-151.50, cx=5, cd=-10, tl=2268, v=true, d=false]
+[02:33:54] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[02:34:01] [Netty Epoll Server IO #1/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[02:34:01] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityLesh['Moving Flesh'/1449126, uuid='e1ef66e1-a0ff-4a5e-a2cb-12740eb73d08', l='DIM-1', x=80.49, y=36.00, z=-149.95, cx=5, cd=-10, tl=727, v=true, d=false]
+[02:34:01] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
