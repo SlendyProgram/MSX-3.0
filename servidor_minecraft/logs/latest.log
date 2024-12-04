@@ -22170,3 +22170,102 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [17:11:40] [Netty Epoll Server IO #0/INFO] [FML]: Disconnecting Player: This server has mods that require FML/Forge to be installed on the client: [AutoRegLib, Charm, CreativeCore, Enhanced Visuals, Future MC, LoliASM, MrCrayfish's Gun Mod, Parasites Addon : OverLast, Player Revive, Reskillable, SRP: Combat Addon (by NoCube), SRP: Nests Addon (by NoCube), SRP: Survival Addon (by NoCube), SanAndreasPs Mod Library, SanAndreasPs Player Model, Scape and Run Parasites, SecurityCraft, Spartan Shields, Spartan Weaponry, Turret Mod Rebirth, U Team Core, Useful Backpacks]
 [17:11:41] [Netty Epoll Server IO #1/INFO] [FML]: Disconnecting Player: This server has mods that require FML/Forge to be installed on the client: [AutoRegLib, Charm, CreativeCore, Enhanced Visuals, Future MC, LoliASM, MrCrayfish's Gun Mod, Parasites Addon : OverLast, Player Revive, Reskillable, SRP: Combat Addon (by NoCube), SRP: Nests Addon (by NoCube), SRP: Survival Addon (by NoCube), SanAndreasPs Mod Library, SanAndreasPs Player Model, Scape and Run Parasites, SecurityCraft, Spartan Shields, Spartan Weaponry, Turret Mod Rebirth, U Team Core, Useful Backpacks]
 [17:12:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:17:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:22:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:23:12] [User Authenticator #1/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player slendy3021 is 2f7b0dae-90da-3fab-a9a9-d67a016efa69
+[17:23:12] [Server thread/TRACE] [FML]: Handshake channel activating
+[17:23:12] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[17:23:12] [Server thread/DEBUG] [FML]:   Next: HELLO
+[17:23:12] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[17:23:12] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ModList:44 mods->FMLHandshakeServerState$2:HELLO
+[17:23:12] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 44 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,usefulbackpacks@1.5.4.85,mixinbooter@8.3,cgm@0.15.3,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.1001,futuremc@0.2.6,loliasm@5.14,quark@r1.6-179,spartanshields@1.5.4,mcp@9.42,aquaacrobatics@1.15.3,nocubessrpnests@3.0.0,sanplayermodel@1.2.2,enhancedvisuals@1.3.0,xaeroworldmap@1.32.0,securitycraft@v1.9.6,autoreglib@1.3-32,reskillable@1.12.2-1.13.0,sanlib@1.6.3,FML@8.0.99.99,obfuscate@0.4.2,forgelin@1.8.3,sapturretmod@4.0.0-beta.4.6,foamfixcore@7.7.4,srparasites@1.9.12,uteamcore@2.2.5.255,spartanweaponry@beta 1.3.8,appleskin@1.0.14,xaerominimap_core@1.12.2-1.0,additionalstructures@2.5.0,waila@1.8.26,foamfix@@VERSION@,charm@1.4,xaerobetterpvp@22.8.0,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,playerrevive@1.0,orelib@3.6.0.1,dsurround@3.6.1.0,overlast@0.2.8
+[17:23:12] [Netty Epoll Server IO #2/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist, lostcities] modCLIENT
+[17:23:12] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: WAITINGCACK
+[17:23:13] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[17:23:13] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: COMPLETE
+[17:23:14] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[17:23:14] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: DONE
+[17:23:14] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[17:23:14] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[17:23:14] [Server thread/INFO] [dsurround]: Player [slendy3021] connected with Dynamic Surroundings 3.6.1.0
+[17:23:14] [Server thread/INFO] [Waila]: Player EntityPlayerMP['slendy3021'/230, uuid='2f7b0dae-90da-3fab-a9a9-d67a016efa69', l='world', x=-615.30, y=70.00, z=184.35, cx=-39, cd=11, tl=815407, v=true, d=false](slendy3021 at -615.301901717677,70.0,184.3500391428928) connected. Sending ping
+[17:23:14] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[17:23:14] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: slendy3021[/127.77.189.225:51907] logged in with entity id 230 at ([world]-615.301901717677, 70.0, 184.3500391428928)
+[17:23:17] [Server thread/DEBUG] [mixin]: Mixing UtilMixin from mixins.crashes.json into net.minecraft.util.Util
+[17:23:17] [Server thread/TRACE] [mixin]: Added class metadata for java/util/concurrent/FutureTask to metadata cache
+[17:23:17] [Server thread/TRACE] [mixin]: Added class metadata for zone/rong/loliasm/common/crashes/CrashUtils to metadata cache
+[17:23:20] [Finalizer/WARN] [LoliASM]: Clearing LoliStringPool 1
+[17:23:20] [Finalizer/WARN] [LoliASM]: Clearing LoliStringPool 1
+[17:23:20] [Finalizer/WARN] [LoliASM]: Clearing LoliStringPool 1
+[17:23:20] [Finalizer/WARN] [LoliASM]: Clearing LoliStringPool 1
+[17:23:20] [Finalizer/WARN] [LoliASM]: Clearing LoliStringPool 1
+[17:23:20] [Netty Epoll Server IO #2/ERROR] [Mohist]: LEAK: ByteBuf.release() was not called before it's garbage-collected. See http://netty.io/wiki/reference-counted-objects.html for more information.
+Recent access records: 
+Created at:
+	io.netty.buffer.PooledByteBufAllocator.newDirectBuffer(PooledByteBufAllocator.java:331)
+	io.netty.buffer.AbstractByteBufAllocator.directBuffer(AbstractByteBufAllocator.java:185)
+	io.netty.buffer.AbstractByteBufAllocator.directBuffer(AbstractByteBufAllocator.java:171)
+	com.creativemd.creativecore.common.packet.CreativeMessageHandler.toBytes(CreativeMessageHandler.java:60)
+	net.minecraftforge.fml.common.network.simpleimpl.SimpleIndexedCodec.encodeInto(SimpleIndexedCodec.java:30)
+	net.minecraftforge.fml.common.network.simpleimpl.SimpleIndexedCodec.encodeInto(SimpleIndexedCodec.java:26)
+	net.minecraftforge.fml.common.network.FMLIndexedMessageToMessageCodec.encode(FMLIndexedMessageToMessageCodec.java:78)
+	io.netty.handler.codec.MessageToMessageCodec$1.encode(MessageToMessageCodec.java:67)
+	io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:88)
+	io.netty.handler.codec.MessageToMessageCodec.write(MessageToMessageCodec.java:116)
+	io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738)
+	io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:801)
+	io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:814)
+	io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:794)
+	io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:831)
+	io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1071)
+	io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:300)
+	net.minecraftforge.fml.common.network.simpleimpl.SimpleNetworkWrapper.sendTo(SimpleNetworkWrapper.java:247)
+	com.creativemd.creativecore.common.packet.PacketHandler.sendPacketToPlayer(PacketHandler.java:81)
+	com.creativemd.creativecore.common.config.event.ConfigEventHandler.playerLoggedIn(ConfigEventHandler.java:70)
+	net.minecraftforge.fml.common.eventhandler.ASMEventHandler_323_ConfigEventHandler_playerLoggedIn_ServerConnectionFromClientEvent.invoke(.dynamic)
+	net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:96)
+	net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:186)
+	net.minecraftforge.fml.common.FMLCommonHandler.fireServerConnectionEvent(FMLCommonHandler.java:613)
+	net.minecraft.server.management.PlayerList.initializeConnectionToPlayer(PlayerList.java:214)
+	net.minecraftforge.fml.common.network.handshake.NetworkDispatcher.completeServerSideConnection(NetworkDispatcher.java:259)
+	net.minecraftforge.fml.common.network.handshake.NetworkDispatcher.access$100(NetworkDispatcher.java:70)
+	net.minecraftforge.fml.common.network.handshake.NetworkDispatcher$1.func_73660_a(NetworkDispatcher.java:204)
+	net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:298)
+	net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:196)
+	net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:922)
+	net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461)
+	net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:778)
+	net.minecraft.server.MinecraftServer.run(MinecraftServer.java:624)
+	java.lang.Thread.run(Thread.java:750)
+[17:23:34] [Server thread/INFO] [Meson ASM]: Transforming ItemHandlerHelper
+[17:23:34] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [insertItem, insertItem, ] Descriptor (Lnet/minecraftforge/items/IItemHandler;Lnet/minecraft/item/ItemStack;Z)Lnet/minecraft/item/ItemStack; / (Lnet/minecraftforge/items/IItemHandler;Laip;Z)Laip;)
+[17:23:34] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[17:23:34] [Server thread/INFO] [Meson ASM]: Located target ALOAD 0
+[17:23:34] [Server thread/INFO] [Meson ASM]: Patch result: true
+[17:25:39] [User Authenticator #2/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player slendy3022 is 906300c5-1f1a-3625-86f5-d03bec3c2890
+[17:25:39] [Server thread/TRACE] [FML]: Handshake channel activating
+[17:25:39] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[17:25:39] [Server thread/DEBUG] [FML]:   Next: HELLO
+[17:25:39] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[17:25:39] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ModList:44 mods->FMLHandshakeServerState$2:HELLO
+[17:25:39] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 44 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,usefulbackpacks@1.5.4.85,mixinbooter@8.3,cgm@0.15.3,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.1001,futuremc@0.2.6,loliasm@5.14,quark@r1.6-179,spartanshields@1.5.4,mcp@9.42,aquaacrobatics@1.15.3,nocubessrpnests@3.0.0,sanplayermodel@1.2.2,enhancedvisuals@1.3.0,xaeroworldmap@1.32.0,securitycraft@v1.9.6,autoreglib@1.3-32,reskillable@1.12.2-1.13.0,sanlib@1.6.3,FML@8.0.99.99,obfuscate@0.4.2,forgelin@1.8.3,sapturretmod@4.0.0-beta.4.6,foamfixcore@7.7.4,srparasites@1.9.12,uteamcore@2.2.5.255,spartanweaponry@beta 1.3.8,appleskin@1.0.14,xaerominimap_core@1.12.2-1.0,additionalstructures@2.5.0,waila@1.8.26,foamfix@@VERSION@,charm@1.4,xaerobetterpvp@22.8.0,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,playerrevive@1.0,orelib@3.6.0.1,dsurround@3.6.1.0,overlast@0.2.8
+[17:25:39] [Netty Epoll Server IO #1/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist, lostcities] modCLIENT
+[17:25:39] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: WAITINGCACK
+[17:25:39] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[17:25:39] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: COMPLETE
+[17:25:40] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[17:25:40] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: DONE
+[17:25:40] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[17:25:40] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[17:25:40] [Server thread/INFO] [dsurround]: Player [slendy3022] connected with Dynamic Surroundings 3.6.1.0
+[17:25:40] [Server thread/INFO] [Waila]: Player EntityPlayerMP['slendy3022'/27838, uuid='906300c5-1f1a-3625-86f5-d03bec3c2890', l='world', x=-238.50, y=64.00, z=196.50, cx=-15, cd=12, tl=0, v=true, d=false](slendy3022 at -238.5,64.0,196.5) connected. Sending ping
+[17:25:40] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: slendy3022[/127.77.189.225:35303] logged in with entity id 27838 at ([world]-238.5, 64.0, 196.5)
+[17:25:41] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[17:25:49] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /gamemode creative slendy3022
+[17:25:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Set slendy3022's game mode to Creative Mode]
+[17:26:32] [Server thread/INFO] [OverLast]: Saving data to disk.
+[17:26:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Winter, day 3.
+[17:26:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: This is a high evolution level text, originally designed for modpacks.
+[17:26:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3022 issued server command: /tp slendy3022 slendy3021
+[17:26:57] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /tp slendy3022 slendy3021
+[17:26:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Teleported slendy3022 to slendy3021]
