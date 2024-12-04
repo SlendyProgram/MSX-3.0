@@ -1,1 +1,85 @@
 [00:00:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:03:22] [User Authenticator #2/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player ferneyprogamer13 is 8f270557-484e-3245-81fd-0b1e8c08beb5
+[00:03:22] [Server thread/TRACE] [FML]: Handshake channel activating
+[00:03:22] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[00:03:22] [Server thread/DEBUG] [FML]:   Next: HELLO
+[00:03:22] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[00:03:22] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ModList:44 mods->FMLHandshakeServerState$2:HELLO
+[00:03:22] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 44 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,usefulbackpacks@1.5.4.85,mixinbooter@8.3,cgm@0.15.3,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.1001,futuremc@0.2.6,loliasm@5.14,quark@r1.6-179,spartanshields@1.5.4,mcp@9.42,aquaacrobatics@1.15.3,nocubessrpnests@3.0.0,sanplayermodel@1.2.2,enhancedvisuals@1.3.0,xaeroworldmap@1.32.0,securitycraft@v1.9.6,autoreglib@1.3-32,reskillable@1.12.2-1.13.0,sanlib@1.6.3,FML@8.0.99.99,obfuscate@0.4.2,forgelin@1.8.3,sapturretmod@4.0.0-beta.4.6,foamfixcore@7.7.4,srparasites@1.9.12,uteamcore@2.2.5.255,spartanweaponry@beta 1.3.8,appleskin@1.0.14,xaerominimap_core@1.12.2-1.0,additionalstructures@2.5.0,waila@1.8.26,foamfix@@VERSION@,charm@1.4,xaerobetterpvp@22.8.0,nocubessrpsurvival@3.0.0,forge@14.23.5.2859,xaeroworldmap_core@1.12.2-1.0,playerrevive@1.0,orelib@3.6.0.1,dsurround@3.6.1.0,overlast@0.2.8
+[00:03:22] [Netty Epoll Server IO #0/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist, lostcities] modCLIENT
+[00:03:22] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: WAITINGCACK
+[00:03:22] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[00:03:22] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: COMPLETE
+[00:03:23] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[00:03:23] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: DONE
+[00:03:23] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[00:03:23] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:03:23] [Server thread/INFO] [dsurround]: Player [ferneyprogamer13] connected with Dynamic Surroundings 3.6.1.0
+[00:03:23] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[00:03:23] [Server thread/INFO] [Waila]: Player EntityPlayerMP['ferneyprogamer13'/306852, uuid='8f270557-484e-3245-81fd-0b1e8c08beb5', l='world', x=-650.52, y=61.00, z=234.78, cx=-41, cd=14, tl=230362, v=true, d=false](ferneyprogamer13 at -650.5248505434059,61.0,234.7801721182111) connected. Sending ping
+[00:03:23] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: ferneyprogamer13[/127.162.61.122:55051] logged in with entity id 306852 at ([world]-650.5248505434059, 61.0, 234.7801721182111)
+[00:03:31] [Async Chat Thread - 6/INFO] []: <ferneyprogamer13> wa
+[00:03:36] [Async Chat Thread - 6/INFO] []: <ferneyprogamer13> y tengo lo shaders
+[00:03:43] [Async Chat Thread - 6/INFO] []: <slendy3021> tiene shaders?
+[00:03:46] [Async Chat Thread - 6/INFO] []: <slendy3021> wow
+[00:04:17] [Netty Epoll Server IO #0/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[00:04:17] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityMudo['Rupter'/309693, uuid='8d06e891-dcd5-40d0-a398-a456aced9a0e', l='world', x=-643.94, y=72.00, z=239.47, cx=-41, cd=14, tl=211, v=true, d=false]
+[00:04:17] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[00:04:19] [Netty Epoll Server IO #0/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[00:04:19] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityMudo['Rupter'/309441, uuid='383f4d08-a2bc-4fd8-9150-b66cc5b11b32', l='world', x=-642.57, y=72.00, z=238.86, cx=-41, cd=14, tl=347, v=true, d=false]
+[00:04:19] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[00:04:21] [Netty Epoll Server IO #0/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[00:04:21] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityMudo['Rupter'/309693, uuid='8d06e891-dcd5-40d0-a398-a456aced9a0e', l='world', x=-643.57, y=73.88, z=238.96, cx=-41, cd=14, tl=304, v=true, d=false]
+[00:04:21] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[00:04:42] [Netty Epoll Server IO #0/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[00:04:42] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityMudo['Rupter'/309441, uuid='383f4d08-a2bc-4fd8-9150-b66cc5b11b32', l='world', x=-645.57, y=64.42, z=234.45, cx=-41, cd=14, tl=800, v=true, d=false]
+[00:04:42] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[00:04:52] [Async Chat Thread - 7/INFO] []: <ferneyprogamer13> bro ayuda
+[00:04:56] [Async Chat Thread - 7/INFO] []: <slendy3021> donde?
+[00:05:02] [Async Chat Thread - 7/INFO] []: <ferneyprogamer13> casa
+[00:05:04] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /gamemode survival
+[00:05:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Set own game mode to Survival Mode]
+[00:05:08] [Async Chat Thread - 7/INFO] []: <ferneyprogamer13> hay un bicho
+[00:05:28] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ferneyprogamer13 lost connection: Disconnected
+[00:05:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ferneyprogamer13 left the game
+[00:05:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:07:44] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /gamemode creative
+[00:07:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Set own game mode to Creative Mode]
+[00:08:28] [User Authenticator #3/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player ferneyprogamer13 is 8f270557-484e-3245-81fd-0b1e8c08beb5
+[00:08:28] [Server thread/TRACE] [FML]: Handshake channel activating
+[00:08:28] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[00:08:28] [Server thread/DEBUG] [FML]:   Next: HELLO
+[00:08:28] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[00:08:28] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ModList:44 mods->FMLHandshakeServerState$2:HELLO
+[00:08:28] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 44 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,usefulbackpacks@1.5.4.85,mixinbooter@8.3,cgm@0.15.3,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.1001,futuremc@0.2.6,loliasm@5.14,quark@r1.6-179,spartanshields@1.5.4,mcp@9.42,aquaacrobatics@1.15.3,nocubessrpnests@3.0.0,sanplayermodel@1.2.2,enhancedvisuals@1.3.0,xaeroworldmap@1.32.0,securitycraft@v1.9.6,autoreglib@1.3-32,reskillable@1.12.2-1.13.0,sanlib@1.6.3,FML@8.0.99.99,obfuscate@0.4.2,forgelin@1.8.3,sapturretmod@4.0.0-beta.4.6,foamfixcore@7.7.4,srparasites@1.9.12,uteamcore@2.2.5.255,spartanweaponry@beta 1.3.8,appleskin@1.0.14,xaerominimap_core@1.12.2-1.0,additionalstructures@2.5.0,waila@1.8.26,foamfix@@VERSION@,charm@1.4,xaerobetterpvp@22.8.0,nocubessrpsurvival@3.0.0,forge@14.23.5.2859,xaeroworldmap_core@1.12.2-1.0,playerrevive@1.0,orelib@3.6.0.1,dsurround@3.6.1.0,overlast@0.2.8
+[00:08:28] [Netty Epoll Server IO #2/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist, lostcities] modCLIENT
+[00:08:28] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: WAITINGCACK
+[00:08:28] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[00:08:28] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: COMPLETE
+[00:08:29] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[00:08:29] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: DONE
+[00:08:29] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[00:08:29] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:08:29] [Server thread/INFO] [dsurround]: Player [ferneyprogamer13] connected with Dynamic Surroundings 3.6.1.0
+[00:08:29] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[00:08:29] [Server thread/INFO] [Waila]: Player EntityPlayerMP['ferneyprogamer13'/326822, uuid='8f270557-484e-3245-81fd-0b1e8c08beb5', l='world', x=-678.30, y=66.38, z=206.33, cx=-43, cd=12, tl=232863, v=true, d=false](ferneyprogamer13 at -678.3001304923184,66.38142119997671,206.325830714767) connected. Sending ping
+[00:08:29] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: ferneyprogamer13[/127.162.61.122:53721] logged in with entity id 326822 at ([world]-678.3001304923184, 66.38142119997671, 206.325830714767)
+[00:08:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ferneyprogamer13 is bleeding...
+[00:08:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ferneyprogamer13 fell from a high place
+[00:09:04] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /tp ferneyprogamer13 slendy3021
+[00:09:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Teleported ferneyprogamer13 to slendy3021]
+[00:09:07] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /gamemode survival
+[00:09:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Set own game mode to Survival Mode]
+[00:09:49] [Server thread/INFO] [OverLast]: Saving data to disk.
+[00:09:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Fall, day 3.
+[00:09:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dear survivors, according to the latest information, please be alert to the partner who has been separated from you for more than a day. He may no longer be him.
+[00:09:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: This is a special radio station for fall.
+[00:09:49] [Server thread/INFO] [OverLast]: Rain is on the way in 6031 ticks.
+[00:09:49] [Server thread/INFO] [OverLast]: Rain is on the way in 3807 ticks.
+[00:09:57] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 issued server command: /gamemode creative
+[00:09:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [slendy3021: Set own game mode to Creative Mode]
+[00:10:26] [Async Chat Thread - 8/INFO] []: <slendy3021> a
+[00:10:43] [Async Chat Thread - 8/INFO] []: <ferneyprogamer13> comida
+[00:10:46] [Async Chat Thread - 8/INFO] []: <ferneyprogamer13> medio cora
+[00:10:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:11:22] [Async Chat Thread - 8/INFO] []: <slendy3021> que tal
