@@ -18016,3 +18016,7 @@ Caused by: java.lang.IllegalArgumentException
 [15:39:07] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: slendy3021[/127.108.163.61:40925] logged in with entity id 421 at ([world]-181.62227678042913, 12.0, 206.0850690862689)
 [15:39:07] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
 [15:42:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:47:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:52:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:57:24] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 lost connection: Disconnected
+[15:57:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: slendy3021 left the game
