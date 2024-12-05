@@ -18020,3 +18020,5 @@ Caused by: java.lang.IllegalArgumentException
 [15:52:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [15:57:24] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: slendy3021 lost connection: Disconnected
 [15:57:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: slendy3021 left the game
+[15:57:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:02:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
