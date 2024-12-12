@@ -17999,3 +17999,70 @@ Caused by: java.lang.IllegalArgumentException
 [00:37:56] [Netty Epoll Server IO #2/INFO] [FML]: Disconnecting Player: This server has mods that require FML/Forge to be installed on the client: [AutoRegLib, Bloodmoon, Charm, CreativeCore, Enhanced Visuals, Extended Mod Config, Extended Renderer, Future MC, GeckoLib, Hardcore Darkness, Just Another Rotten Flesh to Leather Mod, Mo' Bends, Player Revive, Reskillable, SecurityCraft, Spartan Shields, Spartan Weaponry, U Team Core, Useful Backpacks, Zombie Awareness, iChunUtil, mobsunscreen]
 [00:38:01] [Netty Epoll Server IO #3/INFO] [FML]: Disconnecting Player: This server has mods that require FML/Forge to be installed on the client: [AutoRegLib, Bloodmoon, Charm, CreativeCore, Enhanced Visuals, Extended Mod Config, Extended Renderer, Future MC, GeckoLib, Hardcore Darkness, Just Another Rotten Flesh to Leather Mod, Mo' Bends, Player Revive, Reskillable, SecurityCraft, Spartan Shields, Spartan Weaponry, U Team Core, Useful Backpacks, Zombie Awareness, iChunUtil, mobsunscreen]
 [00:42:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:47:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:51:19] [User Authenticator #1/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Slendy3021 is 1a41e3ca-4e5c-3719-9e87-b5be06f70b71
+[00:51:19] [Server thread/TRACE] [FML]: Handshake channel activating
+[00:51:19] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[00:51:19] [Server thread/DEBUG] [FML]:   Next: HELLO
+[00:51:19] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[00:51:19] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ModList:41 mods->FMLHandshakeServerState$2:HELLO
+[00:51:19] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 41 mods : minecraft@1.12.2,usefulbackpacks@1.5.4.85,extendedrenderer@v1.0,creativecoredummy@1.0.0,creativecore@1.10.0,configmod@v1.0,jei@4.16.1.302,futuremc@0.2.6,bloodmoon@1.5.3,quark@r1.6-179,spartanshields@1.5.4,mcp@9.42,aquaacrobatics@1.15.3,mobsunscreen@1.12.2-2.1.3,enhancedvisuals@1.3.0,jrftl@1.1,xaeroworldmap@1.32.0,autoreglib@1.3-32,reskillable@1.12.2-1.13.0,zombieawareness@1.12.1-1.11.16,FML@8.0.99.99,badmobs@1.1.40,forgelin@1.8.3,coroutil@1.12.1-1.2.37,uteamcore@2.2.5.255,spartanweaponry@beta 1.3.8,appleskin@1.0.14,xaerominimap_core@1.12.2-1.0,hardcoredarkness@2.0,waila@1.8.26,ichunutil@7.2.2,charm@1.4,xaerobetterpvp@22.8.0,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,controllable@0.11.2,geckolib3@3.0.30,playerrevive@1.0,orelib@3.6.0.1,dsurround@3.6.1.0,mobends@1.2.1
+[00:51:19] [Netty Epoll Server IO #3/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist, securitycraft] modCLIENT
+[00:51:19] [Netty Epoll Server IO #3/INFO] [FML]: Rejecting connection CLIENT: SecurityCraft: Requires version v1.9.6 but mod is not found on client.
+[00:51:19] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: ERROR
+[00:51:19] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Slendy3021 lost connection: Server Mod rejections: 
+SecurityCraft: Requires version v1.9.6 but mod is not found on client.
+[00:51:31] [User Authenticator #2/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Slendy3021 is 1a41e3ca-4e5c-3719-9e87-b5be06f70b71
+[00:51:31] [Server thread/TRACE] [FML]: Handshake channel activating
+[00:51:31] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[00:51:31] [Server thread/DEBUG] [FML]:   Next: HELLO
+[00:51:32] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[00:51:32] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ModList:41 mods->FMLHandshakeServerState$2:HELLO
+[00:51:32] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 41 mods : minecraft@1.12.2,usefulbackpacks@1.5.4.85,extendedrenderer@v1.0,creativecoredummy@1.0.0,creativecore@1.10.0,configmod@v1.0,jei@4.16.1.302,futuremc@0.2.6,bloodmoon@1.5.3,quark@r1.6-179,spartanshields@1.5.4,mcp@9.42,aquaacrobatics@1.15.3,mobsunscreen@1.12.2-2.1.3,enhancedvisuals@1.3.0,jrftl@1.1,xaeroworldmap@1.32.0,autoreglib@1.3-32,reskillable@1.12.2-1.13.0,zombieawareness@1.12.1-1.11.16,FML@8.0.99.99,badmobs@1.1.40,forgelin@1.8.3,coroutil@1.12.1-1.2.37,uteamcore@2.2.5.255,spartanweaponry@beta 1.3.8,appleskin@1.0.14,xaerominimap_core@1.12.2-1.0,hardcoredarkness@2.0,waila@1.8.26,ichunutil@7.2.2,charm@1.4,xaerobetterpvp@22.8.0,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,controllable@0.11.2,geckolib3@3.0.30,playerrevive@1.0,orelib@3.6.0.1,dsurround@3.6.1.0,mobends@1.2.1
+[00:51:32] [Netty Epoll Server IO #0/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist, securitycraft] modCLIENT
+[00:51:32] [Netty Epoll Server IO #0/INFO] [FML]: Rejecting connection CLIENT: SecurityCraft: Requires version v1.9.6 but mod is not found on client.
+[00:51:32] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: ERROR
+[00:51:32] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Slendy3021 lost connection: Server Mod rejections: 
+SecurityCraft: Requires version v1.9.6 but mod is not found on client.
+[00:52:24] [User Authenticator #3/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Slendy3021 is 1a41e3ca-4e5c-3719-9e87-b5be06f70b71
+[00:52:24] [Server thread/TRACE] [FML]: Handshake channel activating
+[00:52:24] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[00:52:24] [Server thread/DEBUG] [FML]:   Next: HELLO
+[00:52:24] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[00:52:24] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ModList:41 mods->FMLHandshakeServerState$2:HELLO
+[00:52:24] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 41 mods : minecraft@1.12.2,usefulbackpacks@1.5.4.85,extendedrenderer@v1.0,creativecoredummy@1.0.0,creativecore@1.10.0,configmod@v1.0,jei@4.16.1.302,futuremc@0.2.6,bloodmoon@1.5.3,quark@r1.6-179,spartanshields@1.5.4,mcp@9.42,aquaacrobatics@1.15.3,mobsunscreen@1.12.2-2.1.3,enhancedvisuals@1.3.0,jrftl@1.1,xaeroworldmap@1.32.0,autoreglib@1.3-32,reskillable@1.12.2-1.13.0,zombieawareness@1.12.1-1.11.16,FML@8.0.99.99,badmobs@1.1.40,forgelin@1.8.3,coroutil@1.12.1-1.2.37,uteamcore@2.2.5.255,spartanweaponry@beta 1.3.8,appleskin@1.0.14,xaerominimap_core@1.12.2-1.0,hardcoredarkness@2.0,waila@1.8.26,ichunutil@7.2.2,charm@1.4,xaerobetterpvp@22.8.0,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,controllable@0.11.2,geckolib3@3.0.30,playerrevive@1.0,orelib@3.6.0.1,dsurround@3.6.1.0,mobends@1.2.1
+[00:52:24] [Netty Epoll Server IO #1/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist, securitycraft] modCLIENT
+[00:52:24] [Netty Epoll Server IO #1/INFO] [FML]: Rejecting connection CLIENT: SecurityCraft: Requires version v1.9.6 but mod is not found on client.
+[00:52:24] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: ERROR
+[00:52:24] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Slendy3021 lost connection: Server Mod rejections: 
+SecurityCraft: Requires version v1.9.6 but mod is not found on client.
+[00:52:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:53:23] [User Authenticator #4/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Slendy3021 is 1a41e3ca-4e5c-3719-9e87-b5be06f70b71
+[00:53:23] [Server thread/TRACE] [FML]: Handshake channel activating
+[00:53:23] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[00:53:23] [Server thread/DEBUG] [FML]:   Next: HELLO
+[00:53:24] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[00:53:24] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ModList:41 mods->FMLHandshakeServerState$2:HELLO
+[00:53:24] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 41 mods : minecraft@1.12.2,usefulbackpacks@1.5.4.85,extendedrenderer@v1.0,creativecoredummy@1.0.0,creativecore@1.10.0,configmod@v1.0,jei@4.16.1.302,futuremc@0.2.6,bloodmoon@1.5.3,quark@r1.6-179,spartanshields@1.5.4,mcp@9.42,aquaacrobatics@1.15.3,mobsunscreen@1.12.2-2.1.3,enhancedvisuals@1.3.0,jrftl@1.1,xaeroworldmap@1.32.0,autoreglib@1.3-32,reskillable@1.12.2-1.13.0,zombieawareness@1.12.1-1.11.16,FML@8.0.99.99,badmobs@1.1.40,forgelin@1.8.3,coroutil@1.12.1-1.2.37,uteamcore@2.2.5.255,spartanweaponry@beta 1.3.8,appleskin@1.0.14,xaerominimap_core@1.12.2-1.0,hardcoredarkness@2.0,waila@1.8.26,ichunutil@7.2.2,charm@1.4,xaerobetterpvp@22.8.0,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,controllable@0.11.2,geckolib3@3.0.30,playerrevive@1.0,orelib@3.6.0.1,dsurround@3.6.1.0,mobends@1.2.1
+[00:53:24] [Netty Epoll Server IO #2/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist, securitycraft] modCLIENT
+[00:53:24] [Netty Epoll Server IO #2/INFO] [FML]: Rejecting connection CLIENT: SecurityCraft: Requires version v1.9.6 but mod is not found on client.
+[00:53:24] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: ERROR
+[00:53:24] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Slendy3021 lost connection: Server Mod rejections: 
+SecurityCraft: Requires version v1.9.6 but mod is not found on client.
+[00:53:28] [User Authenticator #5/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Slendy3021 is 1a41e3ca-4e5c-3719-9e87-b5be06f70b71
+[00:53:28] [Server thread/TRACE] [FML]: Handshake channel activating
+[00:53:28] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[00:53:28] [Server thread/DEBUG] [FML]:   Next: HELLO
+[00:53:28] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[00:53:28] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ModList:41 mods->FMLHandshakeServerState$2:HELLO
+[00:53:28] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 41 mods : minecraft@1.12.2,usefulbackpacks@1.5.4.85,extendedrenderer@v1.0,creativecoredummy@1.0.0,creativecore@1.10.0,configmod@v1.0,jei@4.16.1.302,futuremc@0.2.6,bloodmoon@1.5.3,quark@r1.6-179,spartanshields@1.5.4,mcp@9.42,aquaacrobatics@1.15.3,mobsunscreen@1.12.2-2.1.3,enhancedvisuals@1.3.0,jrftl@1.1,xaeroworldmap@1.32.0,autoreglib@1.3-32,reskillable@1.12.2-1.13.0,zombieawareness@1.12.1-1.11.16,FML@8.0.99.99,badmobs@1.1.40,forgelin@1.8.3,coroutil@1.12.1-1.2.37,uteamcore@2.2.5.255,spartanweaponry@beta 1.3.8,appleskin@1.0.14,xaerominimap_core@1.12.2-1.0,hardcoredarkness@2.0,waila@1.8.26,ichunutil@7.2.2,charm@1.4,xaerobetterpvp@22.8.0,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,controllable@0.11.2,geckolib3@3.0.30,playerrevive@1.0,orelib@3.6.0.1,dsurround@3.6.1.0,mobends@1.2.1
+[00:53:28] [Netty Epoll Server IO #3/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist, securitycraft] modCLIENT
+[00:53:28] [Netty Epoll Server IO #3/INFO] [FML]: Rejecting connection CLIENT: SecurityCraft: Requires version v1.9.6 but mod is not found on client.
+[00:53:28] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: ERROR
+[00:53:28] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Slendy3021 lost connection: Server Mod rejections: 
+SecurityCraft: Requires version v1.9.6 but mod is not found on client.
+[00:53:32] [User Authenticator #6/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Slendy3021 is 1a41e3ca-4e5c-3719-9e87-b5be06f70b71
+[00:53:32] [Server thread/TRACE] [FML]: Handshake channel activating
+[00:53:32] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[00:53:32] [Server thread/DEBUG] [FML]:   Next: HELLO
+[00:53:33] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Slendy3021 lost connection: Disconnected
